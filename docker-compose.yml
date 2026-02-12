@@ -11,7 +11,7 @@ services:
   #     - ./nginx/html:/usr/share/nginx/html
   #     - ./nginx-live.conf
 
-  tradergpt_automation:
+  tradersboard_widgetloadtest:
     build: .
     container_name: tradersboard_widgetloadtest
     privileged: true
