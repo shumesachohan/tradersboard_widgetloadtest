@@ -1,0 +1,382 @@
+2026-02-12 17:34:47,785 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 17:34:47,788 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 17:34:47,799 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 17:35:10,077 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 17:35:10,148 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 17:35:10,421 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 17:35:20,462 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 17:35:20,497 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 17:40:05,012 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 17:40:05,020 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 17:40:05,024 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 17:40:42,118 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 17:40:42,122 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 17:40:42,319 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 17:40:52,397 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 17:40:52,402 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 17:44:14,570 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 17:44:14,574 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 17:44:14,582 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 17:44:51,329 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 17:44:51,340 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 17:44:51,541 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 17:45:01,554 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 17:45:01,558 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 17:56:44,882 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 17:56:44,887 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 17:56:44,894 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 17:59:18,740 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 17:59:18,772 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 17:59:18,775 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 17:59:28,783 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 17:59:28,786 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:03:22,058 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:03:22,069 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:03:22,073 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:03:39,138 - WARNING - Couldn't get response body for request 50772.730: Message: unknown error: unhandled inspector error: {"code":-32000,"message":"No data found for resource with given identifier"}
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee5093
+	0xee50d4
+	0xcdb490
+	0xccada2
+	0xcc9876
+	0xcc9ef6
+	0xcc9e98
+	0xcdfbca
+	0xd70ef1
+	0xd481bc
+	0xd65341
+	0xd47f56
+	0xd196c9
+	0xd1a484
+	0x1137e34
+	0x11330c9
+	0x1150add
+	0xefdb38
+	0xf058ad
+	0xeed848
+	0xeeda12
+	0xed75fa
+	0x761b5d49
+	0x774dd74b
+	0x774dd6d1
+
+2026-02-12 18:05:49,704 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:05:49,755 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:05:49,807 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:05:59,821 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:05:59,824 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:07:00,566 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:07:00,572 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:07:00,575 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:09:30,425 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:09:30,438 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:09:30,441 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:09:40,462 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:09:40,465 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:21:37,452 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:21:37,456 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:21:37,465 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:24:12,307 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:24:12,310 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:24:12,312 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:24:22,332 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:24:22,335 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:28:53,162 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:28:53,165 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:28:53,171 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:31:25,268 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:31:25,272 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:31:25,322 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:31:35,345 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:31:35,349 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:37:53,367 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:37:53,374 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:37:53,388 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:40:27,169 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:40:27,187 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:40:27,191 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:40:37,202 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:40:37,207 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:40:57,041 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:40:57,055 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:40:57,061 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:41:56,197 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:41:56,250 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:41:56,311 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:42:19,962 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:42:19,965 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:42:19,980 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:42:32,005 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:42:32,346 - ERROR - ❌ Error capturing logs: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee5093
+	0xee50d4
+	0xcdb2ce
+	0xd18957
+	0xd48076
+	0xd43dc1
+	0xd432c2
+	0xcae26b
+	0xcae80e
+	0xcaeced
+	0x1137e34
+	0x11330c9
+	0x1150add
+	0xefdb38
+	0xf058ad
+	0xcadde9
+	0xcad430
+	0x1289aaf
+	0x761b5d49
+	0x774dd74b
+	0x774dd6d1
+
+2026-02-12 18:42:52,292 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:42:52,300 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:42:52,304 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:43:10,170 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:43:10,180 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:43:10,200 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:43:36,759 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:43:36,764 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:43:36,768 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:44:47,401 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:44:47,403 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:44:47,411 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:45:11,406 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:45:11,422 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:45:11,534 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:47:11,930 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:47:18,703 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:47:18,726 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:47:28,733 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:47:28,737 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:49:27,629 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:49:27,641 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:49:27,644 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:51:09,324 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:51:09,333 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:51:09,372 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:55:59,417 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:55:59,420 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:55:59,423 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 18:56:24,372 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 18:56:24,383 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:56:24,423 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:56:34,441 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 18:56:34,453 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 18:59:14,096 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 18:59:14,106 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 18:59:14,110 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:01:45,780 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:01:45,799 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:01:45,802 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:01:55,893 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:01:55,938 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:07:26,834 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:07:26,840 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:07:26,847 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:09:55,755 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:09:55,766 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:09:55,770 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:10:05,780 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:10:05,784 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:27:36,857 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:27:36,861 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:27:36,868 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:28:01,256 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:28:01,532 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:28:01,751 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:28:17,220 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:28:17,225 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:28:17,231 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:30:17,597 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:30:23,732 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:30:23,741 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:33:14,952 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:33:14,958 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:33:14,962 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:35:17,038 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:35:17,045 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:35:17,051 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:35:27,072 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:35:27,087 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:42:57,556 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:42:57,560 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:42:57,565 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:43:10,994 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:43:11,035 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:43:11,079 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:44:21,713 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:44:21,713 - ERROR - ❌ Error capturing logs: 'sessionId'
+2026-02-12 19:44:58,957 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:44:58,963 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:44:58,978 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:45:02,736 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:45:02,739 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:45:02,744 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:47:35,854 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:47:35,867 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:47:35,881 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:49:36,261 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:49:39,694 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:49:39,736 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:49:49,748 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:49:49,751 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:50:12,374 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:50:12,383 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:50:12,388 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:50:20,659 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:50:20,693 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:50:20,717 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:50:59,287 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:50:59,288 - ERROR - ❌ Error capturing logs: 'sessionId'
+2026-02-12 19:51:20,184 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:51:20,192 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:51:20,198 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:52:08,141 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:52:08,142 - ERROR - ❌ Error capturing logs: 'sessionId'
+2026-02-12 19:52:28,716 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:52:28,721 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:52:28,725 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:55:07,169 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:55:07,207 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:55:07,210 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:55:17,291 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:55:17,344 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:55:40,681 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 19:55:40,686 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 19:55:40,703 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 19:58:18,185 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 19:58:18,189 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:58:18,193 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 19:58:28,390 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 19:58:28,445 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:01:46,496 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:01:46,500 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:01:46,502 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:04:51,208 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 20:04:51,286 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:04:51,293 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:05:01,303 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:05:01,305 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:07:38,566 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:07:38,573 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:07:38,581 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:13:21,334 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 20:13:21,335 - ERROR - ❌ Error capturing logs: 'sessionId'
+2026-02-12 20:13:37,854 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:13:37,857 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:13:37,862 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:13:45,959 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 20:13:45,968 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:13:46,035 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:13:56,043 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:13:56,047 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:17:14,761 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:17:14,770 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:17:14,788 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:21:12,949 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 20:21:13,029 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:21:13,122 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:21:23,306 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:21:23,452 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:21:36,822 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:21:36,838 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:21:36,853 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:23:43,842 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 20:23:43,857 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:23:43,870 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:23:53,888 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:23:53,901 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:32:44,329 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:32:44,335 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:32:44,347 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:33:43,896 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:33:43,902 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:33:43,916 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:45:53,532 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:45:53,544 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:45:53,557 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:46:02,015 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 20:46:02,023 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:46:02,239 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:47:36,069 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:47:36,089 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:47:36,114 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:47:45,528 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 20:47:45,579 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:47:45,728 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:48:35,864 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:48:35,992 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:48:36,140 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:48:53,458 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 20:48:53,467 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:48:54,052 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:55:51,062 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:55:51,077 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:55:51,087 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:55:59,330 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 20:55:59,382 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 20:55:59,420 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 20:57:24,159 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:57:24,166 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:57:24,182 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 20:59:30,630 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 20:59:30,637 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 20:59:30,647 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 21:04:50,887 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 21:04:51,032 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:04:51,210 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:05:01,543 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:05:01,638 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:05:36,344 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 21:05:36,373 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 21:05:36,392 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 21:10:16,143 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 21:10:16,257 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:10:16,351 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:10:26,546 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:10:26,554 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:14:31,948 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 21:14:31,960 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 21:14:31,972 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 21:18:05,379 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 21:18:05,388 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 21:18:05,404 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 21:21:34,632 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 21:21:34,666 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 21:21:34,686 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 21:26:14,922 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 21:26:14,961 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:26:15,081 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:26:25,151 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:26:25,158 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:26:51,771 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 21:26:51,784 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 21:26:51,793 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 21:31:20,028 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 21:31:20,124 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:31:20,211 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:31:30,422 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:31:30,526 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:38:22,045 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 21:38:22,060 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 21:38:22,139 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 21:42:57,594 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 21:42:57,610 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:42:57,709 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:43:07,954 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:43:08,039 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:51:23,707 - INFO - 🚀 Starting test: unnamed_test
+2026-02-12 21:51:23,785 - INFO - ✅ Console logs saved: logs/unnamed_test_start_console_logs.txt
+2026-02-12 21:51:23,863 - INFO - ✅ Raw network logs saved: logs/unnamed_test_start_network_logs.json
+2026-02-12 21:54:21,701 - INFO - 🧪 Ending test: unnamed_test
+2026-02-12 21:54:21,705 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:54:21,709 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json
+2026-02-12 21:54:31,726 - INFO - ✅ Console logs saved: logs/unnamed_test_end_console_logs.txt
+2026-02-12 21:54:31,788 - INFO - ✅ Raw network logs saved: logs/unnamed_test_end_network_logs.json

@@ -1,0 +1,2964 @@
+{
+  "network_logs": [
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
+      "status_code": 200,
+      "response_time_ms": 1.69,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecg.woff2",
+      "status_code": 200,
+      "response_time_ms": 1.82,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/AAPL.svg/public",
+      "status_code": 200,
+      "response_time_ms": 3.91,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/META.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.71,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/MSFT.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.94,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/NVDA.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.96,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/AMZN.svg/public",
+      "status_code": 200,
+      "response_time_ms": 2.09,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/GOOGL.svg/public",
+      "status_code": 200,
+      "response_time_ms": 2.25,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://cdn.socket.io/4.7.5/socket.io.min.js",
+      "status_code": 200,
+      "response_time_ms": 5.63,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/TSLA.svg/public",
+      "status_code": 200,
+      "response_time_ms": 3.2,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/PEP.svg/public",
+      "status_code": 200,
+      "response_time_ms": 3.26,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/AVGO.svg/public",
+      "status_code": 200,
+      "response_time_ms": 3.42,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/COST.svg/public",
+      "status_code": 200,
+      "response_time_ms": 3.47,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjAgM2gtMVYxaC0ydjJIN1YxSDV2Mkg0Yy0xLjEgMC0yIC45LTIgMnYxNmMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjVjMC0xLjEtLjktMi0yLTJ6bTAgMThINFY4aDE2djEzeiIvPjxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiLz48L3N2Zz4=",
+      "status_code": 200,
+      "response_time_ms": 0.04,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 9.24,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/ticker/price/performance\",\"body\":{\"symbol\":\"AAPL\",\"interval\":\"5d\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+      "status_code": 200,
+      "response_time_ms": 5050.07,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 5060.4,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/general\",\"body\":{\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\",\"browser_detail\":\"Chrome\",\"browser_version\":\"139.0.0.0\",\"device\":\"Windows\",\"start_date\":\"2026-01-12\",\"end_date\":\"2026-02-12\",\"entity\":\"markets\",\"entity_type\":\"page\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 5453.19,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/general\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 5749.37,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/general\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 5944.62,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/overview/share_stats\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 5997.98,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/fundamental\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6016.24,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/overview/share_stats\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6020.01,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/fundamental\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6071.46,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/web_premium_table/insider_trades\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6080.05,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/analyst-price-target?symbol=AAPL&timePeriod=ThisMonth&targetChange=All&minPercent=0&maxPercent=100\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6084.65,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/web_premium_table/security_short_vol\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6088.96,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/web_premium_table/security_short_vol\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6095.35,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/news_sentiment\",\"body\":{\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\",\"browser_detail\":\"Chrome\",\"browser_version\":\"139.0.0.0\",\"device\":\"Windows\",\"start_date\":\"2026-02-07\",\"end_date\":\"2026-02-12\",\"entity\":\"markets\",\"entity_type\":\"page\",\"symbol\":\"AAPL\",\"topic\":\"stock\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20class%3D%22ag-icon%22%20fill%3D%22black%22%20stroke%3D%22none%22%20viewBox%3D%220%200%2032%2032%22%3E%3Cpath%20d%3D%22M7.334%2010.667%2016%2021.334l8.667-10.667H7.334Z%22%2F%3E%3C%2Fsvg%3E",
+      "status_code": 200,
+      "response_time_ms": 0.03,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20class%3D%22ag-icon%22%20fill%3D%22none%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20stroke%3D%22black%22%20stroke-width%3D%221.5%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cstyle%3E*%20%7B%20vector-effect%3A%20non-scaling-stroke%3B%20%7D%3C%2Fstyle%3E%3Cpath%20d%3D%22m17%2018-6-6%206-6%22%2F%3E%3Cpath%20d%3D%22M7%206v12%22%2F%3E%3C%2Fsvg%3E",
+      "status_code": 200,
+      "response_time_ms": 0.02,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20class%3D%22ag-icon%22%20fill%3D%22none%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20stroke%3D%22black%22%20stroke-width%3D%221.5%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cstyle%3E*%20%7B%20vector-effect%3A%20non-scaling-stroke%3B%20%7D%3C%2Fstyle%3E%3Cpath%20d%3D%22m15%2018-6-6%206-6%22%2F%3E%3C%2Fsvg%3E",
+      "status_code": 200,
+      "response_time_ms": 0.02,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20class%3D%22ag-icon%22%20fill%3D%22none%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20stroke%3D%22black%22%20stroke-width%3D%221.5%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cstyle%3E*%20%7B%20vector-effect%3A%20non-scaling-stroke%3B%20%7D%3C%2Fstyle%3E%3Cpath%20d%3D%22m9%2018%206-6-6-6%22%2F%3E%3C%2Fsvg%3E",
+      "status_code": 200,
+      "response_time_ms": 0.01,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20class%3D%22ag-icon%22%20fill%3D%22none%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20stroke%3D%22black%22%20stroke-width%3D%221.5%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cstyle%3E*%20%7B%20vector-effect%3A%20non-scaling-stroke%3B%20%7D%3C%2Fstyle%3E%3Cpath%20d%3D%22m7%2018%206-6-6-6%22%2F%3E%3Cpath%20d%3D%22M17%206v12%22%2F%3E%3C%2Fsvg%3E",
+      "status_code": 200,
+      "response_time_ms": 0.01,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20class%3D%22ag-icon%22%20fill%3D%22none%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20stroke%3D%22black%22%20stroke-width%3D%221.5%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cstyle%3E*%20%7B%20vector-effect%3A%20non-scaling-stroke%3B%20%7D%3C%2Fstyle%3E%3Cpath%20d%3D%22M3%206h18%22%2F%3E%3Cpath%20d%3D%22M7%2012h10%22%2F%3E%3Cpath%20d%3D%22M10%2018h4%22%2F%3E%3C%2Fsvg%3E",
+      "status_code": 200,
+      "response_time_ms": 0.01,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/AAPL.svg/public",
+      "status_code": 200,
+      "response_time_ms": 15.96,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/AMZN.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.63,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/GOOGL.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.65,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/MSFT.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.71,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/NVDA.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.73,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/TSLA.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.75,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/META.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.81,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6104.39,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://financialmodelingprep.com/stable/key-metrics?symbol=AAPL&apikey=UpMiO0VgOWefPCzrsML0vVLwi2d4yMd7&limit=1\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6110.2,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/news\",\"body\":{\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\",\"browser_detail\":\"Chrome\",\"browser_version\":\"139.0.0.0\",\"device\":\"Windows\",\"start_date\":\"2026-02-07\",\"end_date\":\"2026-02-12\",\"entity\":\"markets\",\"entity_type\":\"page\",\"topic\":\"stock\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6114.03,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/treasury_rates\",\"body\":{\"symbol\":\"AAPL\",\"interval\":\"1w\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6116.98,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/upcoming_earnings\",\"body\":{\"start_date\":\"2026-02-15\",\"end_date\":\"2026-02-21\",\"p_sector\":\"all\",\"p_industry\":\"all\",\"p_market_cap_min\":\"1000000000\",\"p_market_cap_max\":\"5000000000\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6174.61,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/index\",\"body\":{\"symbol\":\"AAPL\",\"interval\":\"1w\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6178.76,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/sector_performance\",\"body\":{\"start_date\":\"2026-02-12\",\"end_date\":\"2026-02-16\",\"limit\":11},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6182.07,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/high-yield-dividend?p_min_yield=4&p_top_n=10&p_sort_by=yield&p_exclude_special_dividends=true\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6184.59,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/dividend-payment-timeline?p_interval=week&p_frequency=Weekly\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6202.19,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/ipo-timeline-calendar?p_start_date=2025-01-01&p_end_date=2025-12-31&p_exchanges=NASDAQ&p_exchanges=NYSE&p_statuses=Expected&p_statuses=Priced&p_group_by=quarter&p_only_with_price_range=true&p_min_market_cap=500000000\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6206.68,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/movers?type=Looser&interval=5d\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6210.03,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/movers?type=Gainer&interval=5d\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6212.68,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/movers?type=MostActive&interval=5d\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6215.34,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/price-target-consensus?p_min_yield=4&p_top_n=10&p_sort_by=yield&p_exclude_special_dividends=true&start_date=2026-01-12&end_date=2026-02-12&symbols=AAPL&symbols=AMZN\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6261.4,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/price-target-consensus?p_min_yield=4&p_top_n=10&p_sort_by=yield&p_exclude_special_dividends=true&start_date=2026-01-12&end_date=2026-02-12&symbols=AAPL&symbols=AMZN\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6264.51,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/price-target-consensus?p_min_yield=4&p_top_n=10&p_sort_by=yield&p_exclude_special_dividends=true&start_date=2026-01-12&end_date=2026-02-12&symbols=AAPL&symbols=AMZN\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6267.74,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/price-target-consensus?p_min_yield=4&p_top_n=10&p_sort_by=yield&p_exclude_special_dividends=true&start_date=2026-01-12&end_date=2026-02-12&symbols=AAPL&symbols=AMZN\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6272.3,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/stock-split?splitType=All&minRatio=10\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6427.22,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/winner-losers-by-exchange?moverType=MostActive&interval=1d&exchange=all\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6458.75,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/dividend-yield-heatmap?p_yield_brackets=2%2C4&p_frequency=Monthly&p_start_date=2025-01-01&p_end_date=2025-12-31\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6462.22,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/sector-valuation-heatmap?sectorType=All&start_date=2024-01-01&end_date=2024-06-30&min_pe_threshold=10&max_pe_threshold=30&color_scale_min=0&color_scale_max=50&sort_by=pe_value\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6466.05,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/relative-valuation-sector?p_benchmark_type=market_average&p_custom_benchmark=1500.25&p_display_mode=relative&p_sort_order=highest_to_lowest&p_date_selection=2025-06-19&p_exchange_filter=NASDAQ&p_min_pe=5&p_max_pe=30\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6470.4,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/economic_events\",\"body\":{\"start_date\":\"2026-02-07\",\"end_date\":\"2026-02-12\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6479.5,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_company_treasury\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 6488.04,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_company_treasury\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1445.62,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_cap_chart\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1573.25,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_airdrop?limit=10&offset=0&type=UPCOMING\",\"body\":{\"limit\":10,\"offset\":0,\"type\":\"UPCOMING\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1602.54,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_company_treasury\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1609.66,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_airdrop?limit=10&offset=0&type=UPCOMING\",\"body\":{\"limit\":10,\"offset\":0,\"type\":\"UPCOMING\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1612.72,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_winner_loser?limit=10&offset=0&type=loser&source=coinmarketcap&topCoins=all&period=1h\",\"body\":{\"limit\":10,\"offset\":0,\"type\":\"loser\",\"source\":\"coinmarketcap\",\"topCoins\":\"all\",\"period\":\"1h\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1619.23,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_winner_loser?limit=10&offset=0&type=loser&source=coinmarketcap&topCoins=all&period=1h\",\"body\":{\"limit\":10,\"offset\":0,\"type\":\"loser\",\"source\":\"coinmarketcap\",\"topCoins\":\"all\",\"period\":\"1h\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1623.48,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_tending?limit=10&offset=0\",\"body\":{\"limit\":10,\"offset\":0},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1627.26,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_tending?limit=10&offset=0\",\"body\":{\"limit\":10,\"offset\":0},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js",
+      "status_code": 200,
+      "response_time_ms": 6691.49,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1631.61,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/news_stats\",\"body\":{\"interval\":\"thisweek\",\"raw_type\":\"raw\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1636.02,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/marketcap/top?limit=10\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1639.9,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/bias_distribution\",\"body\":{\"interval\":\"thisweek\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://code.highcharts.com/highcharts.js",
+      "status_code": 200,
+      "response_time_ms": 1251.24,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1251.2,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/must_read_news\",\"body\":{\"interval\":\"thisweek\",\"limit\":5,\"offset\":0},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1254.08,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/news_list\",\"body\":{\"interval\":\"thisweek\",\"limit\":10,\"offset\":0,\"topic\":\"stock\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1260.09,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/official_publishers\",\"body\":{\"interval\":\"thisweek\",\"limit\":10,\"offset\":0},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1263.59,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/latest_press\",\"body\":{\"interval\":\"thisweek\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1267.38,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://brief-summary.traderverse.io/news_market_briefing\",\"body\":{\"brief_type\":\"stock\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1270.93,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/items/?time=week&data_type=clustered&limit=10&offset=0\",\"body\":{\"time\":\"week\",\"data_type\":\"clustered\",\"limit\":10,\"offset\":0},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1313.66,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/general\",\"body\":{\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\",\"browser_detail\":\"Chrome\",\"browser_version\":\"139.0.0.0\",\"device\":\"Windows\",\"start_date\":\"2026-01-12\",\"end_date\":\"2026-02-12\",\"entity\":\"markets\",\"entity_type\":\"page\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1317.8,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/general\",\"body\":{\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\",\"browser_detail\":\"Chrome\",\"browser_version\":\"139.0.0.0\",\"device\":\"Windows\",\"start_date\":\"2026-01-12\",\"end_date\":\"2026-02-12\",\"entity\":\"markets\",\"entity_type\":\"page\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1322.3,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://brief-summary.traderverse.io/user_ask\",\"body\":{\"brief_type\":\"news\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1327.69,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://pricestream.traderverse.io/prices?symbol=AAPL_NASDAQ&interval=daily&sub_points=1&start_date=2025-02-12T00:00:00.000Z&end_date=2026-02-12T23:59:59.999Z\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/AAPL.svg/public",
+      "status_code": 200,
+      "response_time_ms": 680.37,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/MSFT.svg/public",
+      "status_code": 200,
+      "response_time_ms": 680.42,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/GOOGL.svg/public",
+      "status_code": 200,
+      "response_time_ms": 680.46,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/NVDA.svg/public",
+      "status_code": 200,
+      "response_time_ms": 680.48,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/AMZN.svg/public",
+      "status_code": 200,
+      "response_time_ms": 680.54,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/META.svg/public",
+      "status_code": 200,
+      "response_time_ms": 680.56,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/TSLA.svg/public",
+      "status_code": 200,
+      "response_time_ms": 680.59,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks/executives/AAPL/Mr.%20Greg%20%20Joswiak.jpg",
+      "status_code": 200,
+      "response_time_ms": 0.78,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks/executives/AAPL/Mr.%20Jeffrey%20E.%20Williams.jpg",
+      "status_code": 200,
+      "response_time_ms": 1.08,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks/executives/AAPL/Mr.%20Chris%20%20Kondo.jpg",
+      "status_code": 200,
+      "response_time_ms": 1.16,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks/executives/AAPL/Mr.%20Timothy%20D.%20Cook.jpg",
+      "status_code": 200,
+      "response_time_ms": 1.17,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks/executives/AAPL/Ms.%20Katherine%20L.%20Adams.jpg",
+      "status_code": 200,
+      "response_time_ms": 1.37,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/AAPL.svg",
+      "status_code": 200,
+      "response_time_ms": 0.11,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 1.87,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/signin-3c761.appspot.com/o/news-placeholder.png?alt=media&token=26b934ee-c082-4ee0-8f1c-f740f9e3b5fb",
+      "status_code": 200,
+      "response_time_ms": 3.36,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-is-fulcrum-capital-llcs-3rd-largest-20260212.png",
+      "status_code": 200,
+      "response_time_ms": 3.37,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/3-key-updates-apple-just-gave-investors-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.46,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-acquired-by-howland-capital-management-20260212.png",
+      "status_code": 200,
+      "response_time_ms": 3.49,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-acquires-all-rights-to-severance-will-produce-future-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.55,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/evergreen-capital-management-llc-grows-position-in-apple-inc-20260212.png",
+      "status_code": 200,
+      "response_time_ms": 3.56,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/wall-street-breakfast-podcast-mcdonalds-arching-toward-50k-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.6,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
+      "status_code": 200,
+      "response_time_ms": 0.4,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/gene-munster-says-apple-stock-sliding-after-new-siri-20260211.jpeg",
+      "status_code": 200,
+      "response_time_ms": 3.69,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-says-its-news-site-provides-access-to-a-20260211.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.72,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-taps-brakes-on-siri-ai-overhaul-20260211.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.75,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-the-last-free-cash-flow-standing-is-a-20260211.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.77,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/these-3-companies-shattered-quarterly-records-20260211.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.8,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/with-apple-allure-intact-consider-trading-this-etf-20260211.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.82,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-just-paid-investors-and-this-is-aapls-dividend-20260211.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.84,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-stock-eyes-breakout-as-this-unseen-engine-unlocks-20260211.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.89,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/great-point-wealth-advisors-llc-purchases-new-position-in-20260211.png",
+      "status_code": 200,
+      "response_time_ms": 3.91,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/asr-vermogensbeheer-nv-sells-20770-shares-of-apple-inc-20260211.png",
+      "status_code": 200,
+      "response_time_ms": 3.93,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/curat-global-llc-has-552000-holdings-in-apple-inc-20260211.png",
+      "status_code": 200,
+      "response_time_ms": 3.94,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/woodtrust-financial-corp-reduces-stock-holdings-in-apple-inc-20260211.png",
+      "status_code": 200,
+      "response_time_ms": 3.96,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/which-big-tech-stocks-have-the-most-debt-and-20260211.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.97,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/strong-iphone-17-cycle-giving-better-than-expected-revenue-20260210.jpg",
+      "status_code": 200,
+      "response_time_ms": 3.99,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/uk-regulator-secures-app-store-commitments-from-apple-and-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.0,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/big-tech-may-have-to-do-more-to-combat-20260210.jpg",
+      "status_code": 200,
+      "response_time_ms": 4.02,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-and-google-agree-to-app-store-changes-after-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.04,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/how-apple-is-winning-the-ai-race-by-staying-20260210.jpeg",
+      "status_code": 200,
+      "response_time_ms": 4.06,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/6-chip-stocks-set-to-benefit-most-from-big-20260210.jpg",
+      "status_code": 200,
+      "response_time_ms": 4.08,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/heres-how-apples-stock-can-surge-in-the-face-20260210.jpg",
+      "status_code": 200,
+      "response_time_ms": 4.1,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-sold-by-cairn-investment-group-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.13,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-and-google-agree-to-app-store-changes-after-20260210.jpg",
+      "status_code": 200,
+      "response_time_ms": 4.14,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/montis-financial-llc-has-1984-million-stake-in-apple-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.16,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-and-google-agree-app-store-changes-to-appease-20260210.jpg",
+      "status_code": 200,
+      "response_time_ms": 4.18,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-stock-holdings-lowered-by-nwam-llc-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.2,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-holdings-decreased-by-tlw-wealth-management-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.22,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-sold-by-presper-financial-architects-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.24,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-stake-raised-by-fiduciary-wealth-partners-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.26,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/davis-rea-ltd-sells-40173-shares-of-apple-inc-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.29,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/dillon-associates-inc-has-6563-million-stock-holdings-in-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.31,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/edgerock-capital-llc-sells-4794-shares-of-apple-inc-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.34,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-bought-by-global-trust-asset-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.36,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/gilliland-jeter-wealth-management-llc-has-2891-million-stake-20260210.png",
+      "status_code": 200,
+      "response_time_ms": 4.38,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/1-unstoppable-stock-to-buy-before-it-joins-nvidia-20260210.jpg",
+      "status_code": 200,
+      "response_time_ms": 4.4,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/this-stock-is-up-10650-in-20-years-can-20260210.jpg",
+      "status_code": 200,
+      "response_time_ms": 4.43,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-to-debut-iphone-17e-new-ipads-fresh-macs-20260209.jpg",
+      "status_code": 200,
+      "response_time_ms": 4.46,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/coons-volatility-going-nowhere-googl-aapl-crwd-next-ai-20260209.jpg",
+      "status_code": 200,
+      "response_time_ms": 4.55,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/tastee-apple-inc-expands-its-confectionery-footprint-with-strategic-20260209.jpg",
+      "status_code": 200,
+      "response_time_ms": 4.57,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/wright-investors-service-inc-decreases-holdings-in-apple-inc-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.6,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/sunbeam-capital-management-llc-has-936-million-position-in-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.63,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-sold-by-cerro-pacific-wealth-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.65,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-is-eagle-global-advisors-llcs-largest-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.68,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/harbour-trust-investment-management-co-has-5273-million-stake-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.7,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/wealth-effects-llc-cuts-holdings-in-apple-inc-aapl-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.72,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-is-blue-square-asset-management-llcs-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.74,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-sold-by-littlejohn-financial-services-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.77,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/wilmington-savings-fund-society-fsb-boosts-stock-position-in-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.8,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/blalock-williams-llc-buys-shares-of-10067-apple-inc-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.82,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-nasdaqaapl-receives-consensus-rating-of-moderate-buy-20260209.png",
+      "status_code": 200,
+      "response_time_ms": 4.84,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/musk-on-apples-recruiting-tactics-record-iphone-quarter-tim-20260208.jpeg",
+      "status_code": 200,
+      "response_time_ms": 4.87,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/top-wall-street-analysts-like-these-stocks-for-longterm-20260208.jpg",
+      "status_code": 200,
+      "response_time_ms": 5.02,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/is-apple-falling-behind-in-artificial-intelligence-ai-heres-20260208.jpg",
+      "status_code": 200,
+      "response_time_ms": 5.05,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/will-taking-over-apples-credit-card-business-boost-jpmorgan-20260207.jpg",
+      "status_code": 200,
+      "response_time_ms": 5.08,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/why-this-tech-stock-is-dodging-the-ai-saaspocalypse-20260207.jpg",
+      "status_code": 200,
+      "response_time_ms": 5.1,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/revenge-of-the-dividend-stocks-20260207.jpg",
+      "status_code": 200,
+      "response_time_ms": 5.13,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-ge-aerospace-lead-five-stocks-flashing-buy-signals-20260207.jpg",
+      "status_code": 200,
+      "response_time_ms": 5.16,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/how-apple-defied-the-tech-stocks-rout-as-ai-20260207.jpg",
+      "status_code": 200,
+      "response_time_ms": 5.17,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-sold-by-arcadia-investment-management-20260207.png",
+      "status_code": 200,
+      "response_time_ms": 5.23,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/crypto/logos/RAID.png",
+      "status_code": 200,
+      "response_time_ms": 0.46,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/plan-group-financial-llc-buys-9089-shares-of-apple-20260207.png",
+      "status_code": 200,
+      "response_time_ms": 5.29,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/crypto/logos/SPACE.png",
+      "status_code": 200,
+      "response_time_ms": 0.49,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/crypto/logos/BTR.png",
+      "status_code": 200,
+      "response_time_ms": 0.55,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/crypto/logos/FLOW.png",
+      "status_code": 200,
+      "response_time_ms": 0.65,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/crypto/logos/CPOOL.png",
+      "status_code": 200,
+      "response_time_ms": 0.61,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/crypto/logos/TOSHI.png",
+      "status_code": 200,
+      "response_time_ms": 0.83,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/eastern-bank-sells-22696-shares-of-apple-inc-aapl-20260207.png",
+      "status_code": 200,
+      "response_time_ms": 6.33,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-inc-aapl-holdings-lessened-by-wealthplan-investment-management-20260207.png",
+      "status_code": 200,
+      "response_time_ms": 6.36,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/hoertkorn-richard-charles-has-2385-million-holdings-in-apple-20260207.png",
+      "status_code": 200,
+      "response_time_ms": 6.38,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/kera-capital-partners-inc-raises-stock-position-in-apple-20260207.png",
+      "status_code": 200,
+      "response_time_ms": 6.4,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/apple-opens-carplay-to-ai-rivals-following-driver-demand-20260206.jpg",
+      "status_code": 200,
+      "response_time_ms": 6.42,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/crypto/logos/CLO.png",
+      "status_code": 200,
+      "response_time_ms": 1.08,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 98.39,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/congress_trading\",\"body\":{\"start_date\":\"2025-11-12\",\"end_date\":\"2026-02-12\",\"page\":1,\"count\":20},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js",
+      "status_code": 200,
+      "response_time_ms": 6805.34,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://cdn.plot.ly/plotly-2.24.2.min.js",
+      "status_code": 200,
+      "response_time_ms": 6800.84,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://cdn.plot.ly/plotly-latest.min.js",
+      "status_code": 200,
+      "response_time_ms": 6797.75,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/echarts@6/dist/echarts.min.js",
+      "status_code": 200,
+      "response_time_ms": 6802.02,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/default_mr.svg",
+      "status_code": 200,
+      "response_time_ms": 1.53,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/AAPL.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.67,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/AAPL.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.34,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/news-logos/zacks.png",
+      "status_code": 200,
+      "response_time_ms": 0.24,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/news-logos/seekingalpha.png",
+      "status_code": 200,
+      "response_time_ms": 0.3,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/news-logos/newsfilecorp.png",
+      "status_code": 200,
+      "response_time_ms": 0.36,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 20.72,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/treasury-yield-curve?dateSelections%5B%5D=today&dateSelections%5B%5D=1w_ago&dateSelections%5B%5D=1m_ago&dateSelections%5B%5D=1y_ago&showHistoricalAverage=false\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 26.55,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/news_sources\",\"body\":{\"interval\":\"thisweek\",\"limit\":10,\"offset\":0},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 29.99,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/yield-distribution?p_bin_size=1&p_show_stats=true&p_frequency_filter=Weekly&p_outlier_threshold=20\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 32.29,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_score_distribution/?time=thisweek&bucket_size=0.1\",\"body\":{\"time\":\"thisweek\",\"bucket_size\":0.1},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 34.79,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/fear_greed_index?interval=30d\",\"body\":{\"interval\":\"30d\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 89.52,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_cap_chart?interval=1y\",\"body\":{\"interval\":\"1y\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 115.73,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/earning/chart\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 119.63,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/ticker/price_target_metrics\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 123.72,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_sentiment_weighted\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 127.48,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/ipo-price-distribution?p_start_date=2026-01-01&p_end_date=2026-02-12&p_distribution_bins=10&p_distribution_bins=20&p_distribution_bins=50&p_outlier_threshold=2&p_show_statistics=true\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 130.76,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/congress_trading\",\"body\":{\"start_date\":\"2025-11-12\",\"end_date\":\"2026-02-12\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 134.2,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://financialmodelingprep.com/stable/income-statement?symbol=AAPL&apikey=UpMiO0VgOWefPCzrsML0vVLwi2d4yMd7\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 183.58,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_cap_chart?interval=1y\",\"body\":{\"interval\":\"1y\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 211.32,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_sentiment_volume_daily/?time=thismonth\",\"body\":{\"time\":\"thismonth\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 214.76,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/insider-momentum?start_date=2025-10-01&end_date=2025-10-15&symbol=MSFT&group_by=month&show_as=ratio&moving_average_window=3&min_transaction_value=500000\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 217.75,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://etl-payload.traderverse.io/calculate_green_day_probabilities?ticker_1=AAPL&asset_type=stocks\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 222.68,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/ticker/price_target_metrics\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 226.05,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://pricestream.traderverse.io/chartapi/analytics/price_comparison/RPC?ticker_1=AAPL_NASDAQ&ticker_2=GOOGL_NASDAQ&days_back=7\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 228.89,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/trending_indexes\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 231.52,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/winner-losers/sector?p_start_date=2024-10-21&p_end_date=2025-10-21&p_min_threshold=5&p_sort_by=losers\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 234.44,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/economic_events\",\"body\":{\"start_date\":\"2026-02-07\",\"end_date\":\"2026-02-12\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 279.47,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/company/fundamental\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 283.25,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_source/?count=6\",\"body\":{\"count\":6},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 287.93,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_count/?time=thisweek&symbol=SPY\",\"body\":{\"time\":\"thisweek\",\"symbol\":\"SPY\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 292.36,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://etl-payload.traderverse.io/calculate_green_day_probabilities?ticker_1=AAPL&asset_type=stocks\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 295.25,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/upgrade_downgrade\",\"body\":{\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\",\"browser_detail\":\"Chrome\",\"browser_version\":\"139.0.0.0\",\"device\":\"Windows\",\"start_date\":\"2025-11-12\",\"end_date\":\"2026-02-12\",\"entity\":\"markets\",\"entity_type\":\"page\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 298.62,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/bull-bear-target-meter?p_symbol=AAPL&p_start_date=2026-02-05&p_end_date=2026-02-12&p_upside_threshold=10&p_downside_threshold=5&p_show_only_significant=true&p_show_only_significant_threshold=5\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 306.22,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_cap_chart?interval=1y\",\"body\":{\"interval\":\"1y\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 326.51,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/cex?interval=1y\",\"body\":{\"interval\":\"1y\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 387.27,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/latest_insider_trader\",\"body\":{\"start_date\":\"2025-11-12\",\"end_date\":\"2026-02-12\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 391.79,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://etl-payload.traderverse.io/calculate_green_day_probabilities?ticker_1=AAPL&asset_type=stocks\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 395.14,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_sentiment_time_of_day/?time=thisweek\",\"body\":{\"time\":\"thisweek\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 398.24,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_sentiment_day_of_week\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 401.78,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/current-grade-distribution?p_group_level=firm&p_time_period=1month\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 407.35,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/upgrade_downgrade\",\"body\":{\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\",\"browser_detail\":\"Chrome\",\"browser_version\":\"139.0.0.0\",\"device\":\"Windows\",\"start_date\":\"2025-11-12\",\"end_date\":\"2026-02-12\",\"entity\":\"markets\",\"entity_type\":\"page\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 410.44,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/market_leaders\",\"body\":{\"type\":\"Leader\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 413.05,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/performance/corelation\",\"body\":{\"start_date\":\"2025-02-12\",\"end_date\":\"2026-02-12\",\"interval\":\"daily\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 417.8,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/ticker/price_ratio\",\"body\":{\"symbol_1\":\"AAPL\",\"symbol_2\":\"SPY\",\"days_back\":365,\"asset_type\":\"stocks\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 421.8,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/symbol_sentiment_count/?time=thisweek\",\"body\":{\"time\":\"thisweek\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 424.5,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_sentiment_top_5_symbol/?time=thisweek\",\"body\":{\"time\":\"thisweek\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 428.18,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/top-index?topCoin=top_100\",\"body\":{\"topCoin\":\"top_100\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 473.42,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_cap_chart?interval=30d\",\"body\":{\"interval\":\"30d\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 579.0,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/trend-sparklines-sector?p_start_date=2024-09-01&p_end_date=2025-10-20&p_sectors=Technology&p_sectors=Healthcare&p_sectors=Energy&p_exchange_filter=NASDAQ&p_enable_moving_average=true&p_ma_window=5&p_show_baseline=true\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 587.14,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_sentiment_each_class/?time=thisweek&symbol=AAPL\",\"body\":{\"time\":\"thisweek\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 590.68,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/performance/sector_rotation\",\"body\":{\"start_date\":\"2025-02-12\",\"end_date\":\"2026-02-12\",\"interval\":\"daily\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 597.06,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/winner-losers-by-market-cap?p_period=1m&p_exchange=NASDAQ&p_market_cap_categories=mega_cap&p_market_cap_categories=large_cap&p_market_cap_categories=small_cap&p_min_threshold=50\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 600.68,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/analyst-price-target?symbol=AAPL&timePeriod=ThisMonth&targetChange=All&minPercent=0&maxPercent=100\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 604.43,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/economic_events\",\"body\":{\"start_date\":\"2026-02-07\",\"end_date\":\"2026-02-12\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 610.18,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/upgrade_downgrade\",\"body\":{\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\",\"browser_detail\":\"Chrome\",\"browser_version\":\"139.0.0.0\",\"device\":\"Windows\",\"start_date\":\"2025-11-12\",\"end_date\":\"2026-02-12\",\"entity\":\"markets\",\"entity_type\":\"page\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 614.17,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/overview/fmp_analyst_rating\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 618.61,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/price-target-gap?p_gap_range_min=-50&p_gap_range_max=100&p_sort_by=gap_percent&p_show_only=all&p_within_percent=5&p_min_gap_threshold=10&p_top_n=20&p_symbols=AAPL&p_symbols=MSFT\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 621.95,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_cap_chart?interval=1y\",\"body\":{\"interval\":\"1y\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 642.23,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/analyst_price_target\",\"body\":{\"start_date\":\"2025-11-12\",\"end_date\":\"2026-02-12\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 678.42,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_count/?time=thisweek&symbol=SPY\",\"body\":{\"time\":\"thisweek\",\"symbol\":\"SPY\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 683.88,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/ticker/price_target_metrics\",\"body\":{\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 688.48,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/analyst_price_target\",\"body\":{\"start_date\":\"2025-11-12\",\"end_date\":\"2026-02-12\",\"symbol\":\"AAPL\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 692.55,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/historical-treasury-rates?maturities=5Y&maturities=10Y&timePeriod=1M\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 696.38,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/rating-action-momentum?p_symbol=AAPL&p_time_period=6month&p_group_by=week&p_show_net_change=false&p_action_filter=all\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://code.highcharts.com/highcharts-more.js",
+      "status_code": 200,
+      "response_time_ms": 700.33,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/ETR.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.06,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/ASCC.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.07,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/LIFE.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.19,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/ASTS.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.21,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/APP.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.24,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/TOST.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.25,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/HMC.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.35,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/LION.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.33,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/JEPQ.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.4,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/UUUU.svg/public",
+      "status_code": 200,
+      "response_time_ms": 1.69,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://cdn-images.traderverse.io/crypto_dummy.svg",
+      "status_code": 200,
+      "response_time_ms": 0.73,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/webp;base64,UklGRh4AAABXRUJQVlA4TBEAAAAvAQAAAAfQ//73v/+BiOh/AAA=",
+      "status_code": 200,
+      "response_time_ms": 0.03,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/AMZN.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.35,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/GOOGL.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.44,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/NVDA.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.47,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/META.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.47,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/TSLA.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.52,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/MSFT.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.71,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 705.73,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/tyler-technologies-q4-earnings-miss-estimates-revenues-rise-yy-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 705.76,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/3-reasons-to-stay-away-from-datadog-stock-despite-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 705.78,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/schroders-plc-shnwf-q4-2025-earnings-call-transcript-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 705.8,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/ford-better-value-than-youd-think-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 705.82,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/freshpet-becomes-first-dog-food-to-earn-clean-label-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 705.83,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/aumega-metals-announces-brokered-life-offering-of-up-to-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 705.85,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/entergy-gears-up-to-report-q4-earnings-heres-what-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 705.86,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/can-ast-spacemobiles-nextgeneration-satellites-drive-future-growth-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 705.86,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/honda-q3-earnings-top-expectations-revenues-decline-yy-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 705.87,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/applovin-this-sale-wont-last-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 695.41,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/upgrade_downgrade\",\"body\":{\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\",\"browser_detail\":\"Chrome\",\"browser_version\":\"139.0.0.0\",\"device\":\"Windows\",\"start_date\":\"2025-11-12\",\"end_date\":\"2026-02-12\",\"entity\":\"markets\",\"entity_type\":\"page\",\"offset\":0,\"limit\":20},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 698.1,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/overall_sentiment\",\"body\":{\"interval\":\"thisweek\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 702.4,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/schroders-plc-shnwf-q4-2025-earnings-call-transcript-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 702.47,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/3-reasons-to-stay-away-from-datadog-stock-despite-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 702.45,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/ford-better-value-than-youd-think-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 702.56,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/tyler-technologies-q4-earnings-miss-estimates-revenues-rise-yy-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 702.47,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/aumega-metals-announces-brokered-life-offering-of-up-to-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 702.53,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/freshpet-becomes-first-dog-food-to-earn-clean-label-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 702.46,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/honda-q3-earnings-top-expectations-revenues-decline-yy-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 702.55,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/entergy-gears-up-to-report-q4-earnings-heres-what-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 702.51,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/applovin-this-sale-wont-last-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 702.58,
+      "request_body": "{\"methodType\":\"HEAD\",\"url\":\"https://images.financialmodelingprep.com/news/can-ast-spacemobiles-nextgeneration-satellites-drive-future-growth-20260212.jpg\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/aumega-metals-announces-brokered-life-offering-of-up-to-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 702.3,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/applovin-this-sale-wont-last-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 702.26,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/honda-q3-earnings-top-expectations-revenues-decline-yy-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 702.31,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/entergy-gears-up-to-report-q4-earnings-heres-what-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 702.38,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/can-ast-spacemobiles-nextgeneration-satellites-drive-future-growth-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 702.39,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://imagedelivery.net/09I_Y_JIwzvjUiGrV3dv3Q/stocks_v1/APP.svg/public",
+      "status_code": 200,
+      "response_time_ms": 0.08,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/aumega-metals-announces-brokered-life-offering-of-up-to-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.42,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/entergy-gears-up-to-report-q4-earnings-heres-what-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.42,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/can-ast-spacemobiles-nextgeneration-satellites-drive-future-growth-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.43,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/honda-q3-earnings-top-expectations-revenues-decline-yy-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.44,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/applovin-this-sale-wont-last-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.45,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/3-dividend-aristocrat-stocks-to-buy-for-reliable-income-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.46,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/jepq-vs-qqq-february-effect-makes-coveredcall-funds-untimely-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.47,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/toast-is-not-a-horse-why-this-saas-stock-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.45,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/madagascar-lifts-16year-mining-permit-suspension-major-step-forward-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.46,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/softbanks-paypay-moves-closer-to-public-markets-with-us-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.44,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/iberdrola-counters-grid-operators-claim-that-its-solar-plant-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.45,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/ast-spacemobile-stock-sinks-whats-bringing-the-satellite-player-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.46,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/palo-alto-plans-dual-listing-in-tel-aviv-after-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.48,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/fedex-has-big-goals-that-deserve-a-bigger-valuation-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.49,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/kraft-heinz-forecasts-about-950-million-in-2026-capital-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.5,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/fedex-targets-higher-revenue-in-fiscal-2029-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.51,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/american-airlines-flight-attendants-picket-as-ceo-tries-to-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.57,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/russias-volgograd-oil-refinery-halts-processing-after-drone-attack-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.59,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/ai-cloud-firm-nebius-posts-surge-in-capex-on-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 16.65,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/aumega-metals-announces-brokered-life-offering-of-up-to-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.5,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/entergy-gears-up-to-report-q4-earnings-heres-what-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.51,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/can-ast-spacemobiles-nextgeneration-satellites-drive-future-growth-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.53,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/honda-q3-earnings-top-expectations-revenues-decline-yy-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.54,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/applovin-this-sale-wont-last-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.56,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/aumega-metals-announces-brokered-life-offering-of-up-to-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.57,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/entergy-gears-up-to-report-q4-earnings-heres-what-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.58,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/can-ast-spacemobiles-nextgeneration-satellites-drive-future-growth-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.6,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/honda-q3-earnings-top-expectations-revenues-decline-yy-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.61,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/applovin-this-sale-wont-last-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.63,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/3-dividend-aristocrat-stocks-to-buy-for-reliable-income-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.77,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/jepq-vs-qqq-february-effect-makes-coveredcall-funds-untimely-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.78,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/aumega-metals-announces-brokered-life-offering-of-up-to-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 1.75,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/entergy-gears-up-to-report-q4-earnings-heres-what-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 1.79,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/toast-is-not-a-horse-why-this-saas-stock-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.91,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/madagascar-lifts-16year-mining-permit-suspension-major-step-forward-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.92,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/softbanks-paypay-moves-closer-to-public-markets-with-us-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.92,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/iberdrola-counters-grid-operators-claim-that-its-solar-plant-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.92,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/ast-spacemobile-stock-sinks-whats-bringing-the-satellite-player-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.95,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/palo-alto-plans-dual-listing-in-tel-aviv-after-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.96,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/fedex-has-big-goals-that-deserve-a-bigger-valuation-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.97,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/kraft-heinz-forecasts-about-950-million-in-2026-capital-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 14.99,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/fedex-targets-higher-revenue-in-fiscal-2029-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 15.0,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/american-airlines-flight-attendants-picket-as-ceo-tries-to-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 15.01,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/russias-volgograd-oil-refinery-halts-processing-after-drone-attack-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 15.03,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/ai-cloud-firm-nebius-posts-surge-in-capex-on-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 15.04,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 13.67,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://heatmap.traderverse.io/heat_map\",\"body\":{\"exchange\":\"sp500\",\"period\":\"1D\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 19.33,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/ipo-deal-size?p_start_date=2025-10-01&p_end_date=2025-10-31&p_min_deal_size=10000000&p_max_deal_size=500000000\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 22.89,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/widget_movers\",\"body\":{\"mover_type\":\"MostActive\",\"interval\":\"1d\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2",
+      "status_code": 200,
+      "response_time_ms": 0.15,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/can-ast-spacemobiles-nextgeneration-satellites-drive-future-growth-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 60.65,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/honda-q3-earnings-top-expectations-revenues-decline-yy-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 60.74,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/news-logos/globenewswire.png",
+      "status_code": 200,
+      "response_time_ms": 0.79,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/news-logos/reuters.png",
+      "status_code": 200,
+      "response_time_ms": 0.79,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/news-logos/businesswire.png",
+      "status_code": 200,
+      "response_time_ms": 0.88,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/news-logos/fool.png",
+      "status_code": 200,
+      "response_time_ms": 0.93,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 72.19,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://brief-summary.traderverse.io/news_market_briefing\",\"body\":{\"brief_type\":\"stock\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 77.74,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://tradersboard-dev-api.traderverse.io/api/v1/discover/valuation-gauge?p_exchange=NASDAQ&p_sectors=Healthcare&p_sectors=Technology&p_benchmark_type=market_average&p_custom_benchmark=25\",\"body\":{},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/applovin-this-sale-wont-last-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 71.24,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/3-dividend-aristocrat-stocks-to-buy-for-reliable-income-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.78,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/jepq-vs-qqq-february-effect-makes-coveredcall-funds-untimely-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.81,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/toast-is-not-a-horse-why-this-saas-stock-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.85,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/madagascar-lifts-16year-mining-permit-suspension-major-step-forward-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.88,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/softbanks-paypay-moves-closer-to-public-markets-with-us-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.46,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/iberdrola-counters-grid-operators-claim-that-its-solar-plant-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.49,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/ast-spacemobile-stock-sinks-whats-bringing-the-satellite-player-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.52,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/palo-alto-plans-dual-listing-in-tel-aviv-after-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.55,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://app.traderverse.io/img/news-default.71e21d49.svg",
+      "status_code": 200,
+      "response_time_ms": 71.1,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/fedex-has-big-goals-that-deserve-a-bigger-valuation-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.64,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/kraft-heinz-forecasts-about-950-million-in-2026-capital-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.68,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://app.traderverse.io/img/defaultAvatar.54745461.svg",
+      "status_code": 200,
+      "response_time_ms": 82.11,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/fedex-targets-higher-revenue-in-fiscal-2029-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.76,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/american-airlines-flight-attendants-picket-as-ceo-tries-to-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.8,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/russias-volgograd-oil-refinery-halts-processing-after-drone-attack-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.83,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://images.financialmodelingprep.com/news/ai-cloud-firm-nebius-posts-surge-in-capex-on-20260212.jpg",
+      "status_code": 200,
+      "response_time_ms": 70.87,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAA0CAYAAAAqunDVAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAhZSURBVHgBzVpbjBNVGP5nWoGwXEoEIRKhAhKNhBaNyOVhiyj4xsKbD0I3xAR8oRvwebtvRiQsLyKJhF3hwRfp7puAsOWBi8a4W2IiibBbSDC7oGEFFmXZdvy/Mz3T0+nMdHphly9pO3Pm0vOd/z//7RyNGokPLkXJ0GJkBCOkUZQ0I0QGhUvu0SjL92SJjFGi3EW+J03nNg5QA6FRvXj/SoxI38ZHcf6EqBaAaF5Lk5brph/Xp6lO1E5KkAm084jHnC6HF06n6PKZFJoVKGnPDo/T6NgEDdx8TC49ylIu30EX1ndRjaielAuZWGQONa+ezb+zKbqCyTQFK74qnXkoyHWfvVdOUkgv10bnN/RQlfBPKtYfouA4k6GEbAo1BSi+dT5t2zBPkKoH2ZEn1PHtHeo6+1fpBUProtwLbZReM+r3Xf5Ixa6E6QW9T530+3YsouTOl31JpBo4koPUnuY3UXp91s87KpOKsUULBvuoYATCC6fRic+W1S2ZSgC5Tft/599x2TTKg9pK59+tqI6659XNv+xiQv1UIATp9B9b9cwJATA0Q6ei1P7xYtkUYhGkRJ8qIOB6BRIKaD/I0/adi+nz3a/QjGne49BoyAG8eO2h2aAZLfTqJxka+ua62zPO6oc5FNQtCYFQsjhiU4IutpCtB4fk6ShpE5vcnHb5sMPKwSg8R4SA+JYFdHjvEnnKfQumRF8dUE4KZrtg5YSFUwjBl4w+mhDHYiIfcNWAZ4IE9yexfZF5gj6aLqYMpaSgdgU/BCvXWRwZgbavbtOR1Ig4htlNZx5YJCcLhz9dIiKVAhJmMFCKUlKm2gn0HXqj7IUg0Hl6WPwO3DAjgN7Lvn1iwwCXYkHTT9ivF0m9dyUu1S6+Zb4wqXaEZgWZUI5avxyi7N0nNFWApKxpgT6j7wqKpHR9nzyEcXCCbO+5dF+QA5Ksht3s/RGkTiYw361gWQ+U+C6TlKmXURy6SQkQweqymSVtMBjxg4M0r+VXNrmD4nwyAEKW0UBwrcwtk5ShWUzdpASgwwODj12vI17btP96VcQg4Z7L98Wz1Q4IpGVB01rkoRmN6shWTV11kxLQe6myUUDH1uz5jVIdKynGqYgTQKT7zN+CDCyoCmgKBtarHxKQVmz1HEpfeyAFkzBJxX7mFNwI46SFUwgv+DXfmG8IRtHBZg5zwovMDmbYYjoRUQGJIc/q//pNYZgqoWXjPJMUHDJUkDPnIAUnYjIEbI56B6oDN8eoGqCDZfmRD0Da8IftPiKZ5oiqDRrsQlonQw/LJjd1ATD6PT58UixS/g6ntB7OfalNxdQ2+EM/KHm3oUfwE2TnFYGxV7y0I1xrCgUI/WZV28UqBz3vOndP1CNAEhMax91n7/J7/hVtyJahXt1n7rH6PHRs84vwS9Np4NFjRPDCguuk5cNmp7z1NztcapkwqkOnIlaQCUkiysC8jC5vEiTM58ZF2xoetOzwU2uAMBfQDpJubX6BmojsFr6CbDXCspNeQC0CicpFnuQR7nR864silUeQeYs73pkaFtJCkGu3XNvb/zCNhWZYbUdOjwjDozptta2S5rggZJKqArBm+NgBEwwLBGnhA6mqxCAFfDAIsqaBqARQ71PbaiQl0JCqCSSU6nhNrSfUjUqa44WGlYLgmBNHb1GjALU+bEt9/IINhZHFwehYjurBto21VZzdAJ/oN2xSggLhc9hPaeJA5ke1AvPA7oskUPTEHMF8TOxYWFG18K5UcqVISv0Qk5YWh/hiUvmMOOOH681i7WEW1Od+z1v8eZvDnlUiuTu8d6ljAtp36PViJwURQ9QllGKLK4pBtiH0H+o3ULxYnX+wA/5JAtLAvHCq4EISdit6keM9tQ19QQjkJn3rvtKgII0vnSaC6eKLH1A9mNtU7EBCTQscsIuloALhkZpKZG6MCUInDizzfA8GowhTQDql1w6wpMW8Smf8hyaVEFnR5HldlQD8HKSktkkJVJKU9G3MISvXtgrpvNGNb6QE1cRcXpDpvhvkCCeUMpzqiP2kHZh7hbSDwYt2BZikNMMquvdK5jXgH8UtZDzSFHRGRuFukcO2jd65HYAynQWsQhZgkhJiM5mivFurFexRBkSW0pygmuqIQqoa9RdSkvcrqgcodb9cB76hNh0n/6RaoPoUvGd78kbZPRhdZL8A5pIqKdVQVfJlCH6t/zPyHeq1IilFWhjlaucWOmt3lPvY0arA9eTJO1an7TV61TyHmtwNhKq+Qkq29WHbbIS09BiOWr8Y9F0nUDsryHDpCjmOU81DtqF8rKLt6O0SCXr9LypW6qP26+VLOZuvdnK5SRQ2/QaVINV9xqxFzJ0VFKFQtRA1Qw534HCTHmU6aIQ1gFgPPr+21X5POSksjwTG+/lKGKf4g/bnYCkHKCUktiY4rgOXK2722H+0dHcvSyvOxGbAwmgaTcqSqBdQ2k6wigogWMjl17stbDvPxuzxUVq++ycWZBynU00Mlm7Pkaza9BH1rbvqdr+7iRk8nqXw7luynAticK4fvjOXJhMwIKoRony+lS6s+87rmcpbDlD1NPQU31nYcjBdpAl+ysL1AOYdxsMy82Z86mvLgf/NIQFekNOKm0OqqXlXA1SSoG5JNQQSRmFiO6X97TarbhtP4ElSmnuJRpGDRHrZT3V+P1K61qUZR+jp9GTjt/GowIJCwEipUgPMdH0BpxwzPcvXKjBPMzfdFg00lkqurZatcrVvjcOSpKa328lJiGUhLmDawx0UeFAXlFvkHLqUpjxH3JO6Nc4OYUiwgVFvdiNYEcIIcE6HFGhKNzE6QSxRcpHeCDBBLcTrXlFpNZV/zAoSBquXNpERatYAIir+B0tVz2WjnYj1AAAAAElFTkSuQmCC",
+      "status_code": 200,
+      "response_time_ms": 0.02,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/BKR.svg",
+      "status_code": 200,
+      "response_time_ms": 0.33,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/CLF.svg",
+      "status_code": 200,
+      "response_time_ms": 1.29,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/AAOI.svg",
+      "status_code": 200,
+      "response_time_ms": 1.36,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/PAHC.svg",
+      "status_code": 200,
+      "response_time_ms": 1.36,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/HOMB.svg",
+      "status_code": 200,
+      "response_time_ms": 1.42,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/COST.svg",
+      "status_code": 200,
+      "response_time_ms": 0.93,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/HWM.svg",
+      "status_code": 200,
+      "response_time_ms": 1.0,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/FCX.svg",
+      "status_code": 200,
+      "response_time_ms": 1.58,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/PCAR.svg",
+      "status_code": 200,
+      "response_time_ms": 1.6,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/EQIX.svg",
+      "status_code": 200,
+      "response_time_ms": 1.13,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/PG.svg",
+      "status_code": 200,
+      "response_time_ms": 1.18,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/CVLG.svg",
+      "status_code": 200,
+      "response_time_ms": 1.8,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/KO.svg",
+      "status_code": 200,
+      "response_time_ms": 1.24,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/GE.svg",
+      "status_code": 200,
+      "response_time_ms": 1.3,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/TDW.svg",
+      "status_code": 200,
+      "response_time_ms": 1.84,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/PLSE.svg",
+      "status_code": 200,
+      "response_time_ms": 1.92,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/RBLX.svg",
+      "status_code": 200,
+      "response_time_ms": 1.95,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/BA.svg",
+      "status_code": 200,
+      "response_time_ms": 1.43,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/ALHC.svg",
+      "status_code": 200,
+      "response_time_ms": 1.98,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/VRTS.svg",
+      "status_code": 200,
+      "response_time_ms": 2.04,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/TBBK.svg",
+      "status_code": 200,
+      "response_time_ms": 2.11,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/BHRB.svg",
+      "status_code": 200,
+      "response_time_ms": 2.06,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/PM.svg",
+      "status_code": 200,
+      "response_time_ms": 1.58,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/ASA.svg",
+      "status_code": 200,
+      "response_time_ms": 2.18,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/ASB.svg",
+      "status_code": 200,
+      "response_time_ms": 2.21,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/WRB.svg",
+      "status_code": 200,
+      "response_time_ms": 2.28,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/ATR.svg",
+      "status_code": 200,
+      "response_time_ms": 2.28,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/BMI.svg",
+      "status_code": 200,
+      "response_time_ms": 2.29,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/WMT.svg",
+      "status_code": 200,
+      "response_time_ms": 2.01,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/T.svg",
+      "status_code": 200,
+      "response_time_ms": 1.98,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/country_flags/US.png",
+      "status_code": 200,
+      "response_time_ms": 0.05,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 75.95,
+      "request_body": "{\"methodType\":\"GET\",\"url\":\"https://news_clustering_summary.traderverse.io/news_sentiment_impact/?time=thisweek\",\"body\":{\"time\":\"thisweek\"},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    }
+  ],
+  "console_logs": [
+    {
+      "level": "WARNING",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:2415538 \"No exchange data available\"",
+      "timestamp": 1770915105255
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')",
+      "timestamp": 1770915105868
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')",
+      "timestamp": 1770915105868
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')",
+      "timestamp": 1770915105912
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')",
+      "timestamp": 1770915105912
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')",
+      "timestamp": 1770915105912
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')",
+      "timestamp": 1770915105955
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')",
+      "timestamp": 1770915114619
+    },
+    {
+      "level": "WARNING",
+      "message": "https://code.highcharts.com/highcharts.js 9:194 \"Invalid language tag: \"",
+      "timestamp": 1770915115818
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://cdn.plot.ly/plotly-latest.min.js 6:8 \"WARNING: plotly-latest.min.js and plotly-latest.js are NO LONGER the latest releases of plotly.js. They are v1.58.5 (released July 2021), the end of the v1.x line, and will not be updated again. To use more recent versions of plotly.js, please update your links to point to an explicit version on cdn.plot.ly. You can find the latest version information at https://github.com/plotly/plotly.js/releases\"",
+      "timestamp": 1770915125158
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:2967239 \"Error fetching chart data:\" TypeError: Cannot convert undefined or null to object\n    at Object.keys (<anonymous>)\n    at window.TraderversePriceCamparison.drawChart (https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714:2:2969731)\n    at window.TraderversePriceCamparison.renderAnalystRating (https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714:2:2969532)\n    at window.TraderversePriceCamparison.updateDisplay (https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714:2:2967448)\n    at window.TraderversePriceCamparison.setupChart (https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714:2:2967166)\n    at async window.TraderversePriceCamparison.init (https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714:2:2957853)",
+      "timestamp": 1770915130239
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1 Error: <path> attribute d: Expected number, \"… 3.69189V6.94189...\".",
+      "timestamp": 1770915131067
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1 Error: <path> attribute d: Expected number, \"… 3.69189V6.94189...\".",
+      "timestamp": 1770915131068
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1 Error: <path> attribute d: Expected number, \"… 3.69189V6.94189...\".",
+      "timestamp": 1770915132671
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1 Error: <path> attribute d: Expected number, \"… 3.69189V6.94189...\".",
+      "timestamp": 1770915132673
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1 Error: <path> attribute d: Expected number, \"… 3.69189V6.94189...\".",
+      "timestamp": 1770915134463
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1 Error: <path> attribute d: Expected number, \"… 3.69189V6.94189...\".",
+      "timestamp": 1770915134465
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:2969730 Uncaught TypeError: Cannot convert undefined or null to object",
+      "timestamp": 1770915138319
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:2969730 Uncaught TypeError: Cannot convert undefined or null to object",
+      "timestamp": 1770915140316
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')",
+      "timestamp": 1770915145413
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1:3664683 \"Error fetching chart data:\" RangeError: Invalid language tag: \n    at new NumberFormat (<anonymous>)\n    at nn.eM (https://code.highcharts.com/highcharts.js:10:30154)\n    at Object.defaultLabelFormatter (https://code.highcharts.com/highcharts.js:10:81949)\n    at Object.v (https://code.highcharts.com/highcharts.js:10:73694)\n    at sA.addLabel (https://code.highcharts.com/highcharts.js:10:73706)\n    at new sA (https://code.highcharts.com/highcharts.js:10:72866)\n    at s5.generateTick (https://code.highcharts.com/highcharts.js:10:99813)\n    at https://code.highcharts.com/highcharts.js:10:100604\n    at Array.forEach (<anonymous>)\n    at s5.getOffset (https://code.highcharts.com/highcharts.js:10:100582)",
+      "timestamp": 1770915145476
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://code.highcharts.com/highcharts.js 9:30153 Uncaught RangeError: Invalid language tag: ",
+      "timestamp": 1770915145503
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1 Error: <path> attribute d: Expected number, \"… 3.69189V6.94189...\".",
+      "timestamp": 1770915146403
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1 Error: <path> attribute d: Expected number, \"M12.9963 10.8203...\".",
+      "timestamp": 1770915146406
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1 Error: <path> attribute d: Expected number, \"M12.9963 10.8203...\".",
+      "timestamp": 1770915146406
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1770915096714 1 Error: <path> attribute d: Expected number, \"M12.9963 10.8203...\".",
+      "timestamp": 1770915146539
+    }
+  ]
+}

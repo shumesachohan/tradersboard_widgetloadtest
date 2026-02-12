@@ -1,0 +1,320 @@
+{
+  "network_logs": [
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/GRAB.svg",
+      "status_code": 200,
+      "response_time_ms": 0.61,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/QQQ.svg",
+      "status_code": 200,
+      "response_time_ms": 0.62,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/PLUG.svg",
+      "status_code": 200,
+      "response_time_ms": 0.58,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/SOFI.svg",
+      "status_code": 200,
+      "response_time_ms": 0.59,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/HOOD.svg",
+      "status_code": 200,
+      "response_time_ms": 0.62,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/NVDA.svg",
+      "status_code": 200,
+      "response_time_ms": 0.97,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/HXHX.svg",
+      "status_code": 200,
+      "response_time_ms": 1.09,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/STFS.svg",
+      "status_code": 200,
+      "response_time_ms": 1.12,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/TSLA.svg",
+      "status_code": 200,
+      "response_time_ms": 1.08,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/F.svg",
+      "status_code": 200,
+      "response_time_ms": 1.17,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/JDZG.svg",
+      "status_code": 200,
+      "response_time_ms": 1.28,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/MU.svg",
+      "status_code": 200,
+      "response_time_ms": 1.28,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/INTC.svg",
+      "status_code": 200,
+      "response_time_ms": 1.24,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/NFLX.svg",
+      "status_code": 200,
+      "response_time_ms": 1.21,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/ONDS.svg",
+      "status_code": 200,
+      "response_time_ms": 1.31,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/WORX.svg",
+      "status_code": 200,
+      "response_time_ms": 1.54,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/JTAI.svg",
+      "status_code": 200,
+      "response_time_ms": 1.38,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/AMZN.svg",
+      "status_code": 200,
+      "response_time_ms": 1.43,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/CSCO.svg",
+      "status_code": 200,
+      "response_time_ms": 1.39,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/QNCX.svg",
+      "status_code": 200,
+      "response_time_ms": 1.44,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+      "status_code": 201,
+      "response_time_ms": 1.5,
+      "request_body": "{\"methodType\":\"POST\",\"url\":\"https://marketsdata-prod-ff.traderverse.io/api/v1/discover/upgrade_downgrade\",\"body\":{\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\",\"browser_detail\":\"Chrome\",\"browser_version\":\"139.0.0.0\",\"device\":\"Windows\",\"start_date\":\"2025-11-12\",\"end_date\":\"2026-02-12\",\"entity\":\"markets\",\"entity_type\":\"page\",\"offset\":0,\"limit\":20},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus\"}}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "data:image/png;base64,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",
+      "status_code": 200,
+      "response_time_ms": 0.02,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/VST.svg",
+      "status_code": 200,
+      "response_time_ms": 0.04,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/HTGC.svg",
+      "status_code": 200,
+      "response_time_ms": 0.58,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/DIS.svg",
+      "status_code": 200,
+      "response_time_ms": 0.55,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/PSA.svg",
+      "status_code": 200,
+      "response_time_ms": 0.66,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/GOOGL.svg",
+      "status_code": 200,
+      "response_time_ms": 0.71,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/AB.svg",
+      "status_code": 200,
+      "response_time_ms": 0.74,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/TEM.svg",
+      "status_code": 200,
+      "response_time_ms": 0.83,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/PYPL.svg",
+      "status_code": 200,
+      "response_time_ms": 0.92,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/FMAO.svg",
+      "status_code": 200,
+      "response_time_ms": 1.12,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/ZS.svg",
+      "status_code": 200,
+      "response_time_ms": 1.19,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/ZBH.svg",
+      "status_code": 200,
+      "response_time_ms": 1.23,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/DAO.svg",
+      "status_code": 200,
+      "response_time_ms": 1.35,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/WNDLF.svg",
+      "status_code": 200,
+      "response_time_ms": 1.33,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/XPO.svg",
+      "status_code": 200,
+      "response_time_ms": 1.39,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/ZG.svg",
+      "status_code": 200,
+      "response_time_ms": 1.47,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/XYL.svg",
+      "status_code": 200,
+      "response_time_ms": 1.48,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/WELL.svg",
+      "status_code": 200,
+      "response_time_ms": 1.47,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/WMB.svg",
+      "status_code": 200,
+      "response_time_ms": 1.52,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/VTR.svg",
+      "status_code": 200,
+      "response_time_ms": 0.81,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/WCC.svg",
+      "status_code": 200,
+      "response_time_ms": 0.88,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/VSTS.svg",
+      "status_code": 200,
+      "response_time_ms": 0.9,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/VRT.svg",
+      "status_code": 200,
+      "response_time_ms": 0.92,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://storage.googleapis.com/analytics-images-traderverse/stocks_v1/WBS.svg",
+      "status_code": 200,
+      "response_time_ms": 1.01,
+      "request_body": null,
+      "response_body": "Not captured"
+    }
+  ],
+  "console_logs": []
+}

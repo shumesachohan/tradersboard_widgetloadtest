@@ -1,0 +1,34 @@
+version: "3"
+
+services:
+
+  # report-nginx:
+  #   image: nginx:alpine
+  #   container_name: login_report_host
+  #   ports:
+  #     - "9090:90"
+  #   volumes:
+  #     - ./nginx/html:/usr/share/nginx/html
+  #     - ./nginx-live.conf
+
+  tradergpt_automation:
+    build: .
+    container_name: tradersboard_widgetloadtest
+    privileged: true
+    restart: always       
+    volumes:
+      - .:/app
+    working_dir: /app
+    env_file:
+      - .env
+    environment:
+       - DISPLAY=:99
+       - ENVIRONMENT=production
+       - EMAIL_USER=neksoftautomationdev@gmail.com
+       - EMAIL_PASS=rxkqlgmswevrdzpi
+       - BASE_URL=https://traderboard-dev.traderverse.io/
+       - INSTANCE_ID=instance156526
+       - TOKEN=vpnnhppm2vxml11m
+       - CHAT_ID=120363408117117262@g.us
+
+    command: ["python3", "main.py"]

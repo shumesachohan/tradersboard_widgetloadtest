@@ -1,0 +1,977 @@
+{
+  "network_logs": [
+    {
+      "url": "https://traderboard-dev.traderverse.io/",
+      "status_code": 200,
+      "response_time_ms": 0.19,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/keycloak-C7o5LTIA.js",
+      "status_code": 200,
+      "response_time_ms": 0.68,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/utils-CqiP7p0A.js",
+      "status_code": 200,
+      "response_time_ms": 0.93,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/vue-vendor-DPsChjJb.js",
+      "status_code": 200,
+      "response_time_ms": 1.19,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/gridstack-Cc1A47Tm.js",
+      "status_code": 200,
+      "response_time_ms": 1.63,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/primevue-BZRrcwUW.js",
+      "status_code": 200,
+      "response_time_ms": 1.91,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/charts-utils-Cd79fe_r.js",
+      "status_code": 200,
+      "response_time_ms": 2.46,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "status_code": 200,
+      "response_time_ms": 3.56,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/index-ChvjOW5a.css",
+      "status_code": 200,
+      "response_time_ms": 3.49,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/index-CcXLyvxi.js",
+      "status_code": 200,
+      "response_time_ms": 3.99,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/realms/traderverse/protocol/openid-connect/auth?client_id=traderboard&redirect_uri=https%3A%2F%2Ftraderboard-dev.traderverse.io%2Fprivate%2Fdashboard&state=e7976e41-38a1-4a0c-a3d3-1809724a398f&response_mode=fragment&response_type=code&scope=openid&nonce=0dfecf93-7d6f-4970-b570-3f660c39242b&code_challenge=dfXOLMk0znhinUlefURb-z_gSpYx3n05oOL3sh4m9GY&code_challenge_method=S256",
+      "status_code": 200,
+      "response_time_ms": 1.17,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/common/keycloak/vendor/patternfly-v5/patternfly.min.css",
+      "status_code": 200,
+      "response_time_ms": 1.6,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/login/keycloak.v2/css/styles.css",
+      "status_code": 200,
+      "response_time_ms": 1.87,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/common/keycloak/vendor/patternfly-v5/patternfly-addons.css",
+      "status_code": 200,
+      "response_time_ms": 2.1,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/login/keycloak.v2/js/passwordVisibility.js",
+      "status_code": 200,
+      "response_time_ms": 2.22,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/login/keycloak.v2/js/authChecker.js",
+      "status_code": 200,
+      "response_time_ms": 2.18,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/login/keycloak.v2/img/keycloak-bg-darken.svg",
+      "status_code": 200,
+      "response_time_ms": 0.74,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/common/keycloak/vendor/patternfly-v5/assets/fonts/RedHatText/RedHatText-Regular.woff2",
+      "status_code": 200,
+      "response_time_ms": 1.0,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/common/keycloak/vendor/patternfly-v5/assets/fonts/RedHatText/RedHatText-Medium.woff2",
+      "status_code": 200,
+      "response_time_ms": 1.11,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/common/keycloak/vendor/patternfly-v5/assets/fonts/RedHatDisplay/RedHatDisplay-Medium.woff2",
+      "status_code": 200,
+      "response_time_ms": 1.32,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/common/keycloak/vendor/patternfly-v5/assets/fonts/webfonts/fa-solid-900.woff2",
+      "status_code": 200,
+      "response_time_ms": 1.41,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/resources/qw15u/login/keycloak.v2/img/favicon.ico",
+      "status_code": 200,
+      "response_time_ms": 0.32,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/private/dashboard",
+      "status_code": 200,
+      "response_time_ms": 0.41,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "status_code": 200,
+      "response_time_ms": 0.15,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/index-CcXLyvxi.js",
+      "status_code": 200,
+      "response_time_ms": 0.16,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/index-ChvjOW5a.css",
+      "status_code": 200,
+      "response_time_ms": 0.44,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/vue-vendor-DPsChjJb.js",
+      "status_code": 304,
+      "response_time_ms": 1.06,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/charts-utils-Cd79fe_r.js",
+      "status_code": 304,
+      "response_time_ms": 1.15,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/utils-CqiP7p0A.js",
+      "status_code": 304,
+      "response_time_ms": 1.25,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/gridstack-Cc1A47Tm.js",
+      "status_code": 304,
+      "response_time_ms": 1.36,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/primevue-BZRrcwUW.js",
+      "status_code": 304,
+      "response_time_ms": 1.44,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/keycloak-C7o5LTIA.js",
+      "status_code": 304,
+      "response_time_ms": 1.6,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/favicon.ico",
+      "status_code": 200,
+      "response_time_ms": 0.6,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://of-auth.traderverse.io/auth/realms/traderverse/protocol/openid-connect/token",
+      "status_code": 200,
+      "response_time_ms": 0.9,
+      "request_body": "code=c63c2ae2-0ec1-474d-ad11-9ec93bfc84fc.YgRkGJkZwWWGVfGusoFzFn0V.defc9c18-6ee0-483c-ac32-405d3cfa3d17&grant_type=authorization_code&client_id=traderboard&redirect_uri=https%3A%2F%2Ftraderboard-dev.traderverse.io%2Fprivate%2Fdashboard&code_verifier=kZQZ824yuAOnETrlk3lwoDF3rlKWOib5oaR9STtS3izH9tB5LVqhxsvhsbselBkGNrK6E9gWdD72g77LdOMl8ctZc90V7KbE",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/auth",
+      "status_code": 201,
+      "response_time_ms": 0.37,
+      "request_body": "{\"keycloakUserId\":\"2d9a3f7d-9cb0-4c55-994f-d26cb87ec672\",\"email\":\"afsheeniqbalc@gmail.com\",\"token\":\"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1ZHdjYVZGa2htUjRsd1N2bFpvZjFYemc3MGRjNkxsU29HSDl0SDBvZ1lJIn0.eyJleHAiOjE3NzA5MTUzOTMsImlhdCI6MTc3MDkxNTA5MywiYXV0aF90aW1lIjoxNzcwOTE1MDkyLCJqdGkiOiJvbnJ0YWM6MmU4YzdmMzUtODhmYy0xMDAyLWRlNDQtZjRkN2Y4MDFmMGUxIiwiaXNzIjoiaHR0cHM6Ly9vZi1hdXRoLnRyYWRlcnZlcnNlLmlvL2F1dGgvcmVhbG1zL3RyYWRlcnZlcnNlIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6IjJkOWEzZjdkLTljYjAtNGM1NS05OTRmLWQyNmNiODdlYzY3MiIsInR5cCI6IkJlYXJlciIsImF6cCI6InRyYWRlcmJvYXJkIiwic2lkIjoiWWdSa0dKa1p3V1dHVmZHdXNvRnpGbjBWIiwiYWNyIjoiMSIsImFsbG93ZWQtb3JpZ2lucyI6WyJodHRwczovL2FzdHJvLW9mLnRyYWRlcnZlcnNlLmlvIiwiaHR0cDovL2xvY2FsaG9zdDo0MzIxIiwiaHR0cHM6Ly9wb3J0Zm9saW8tZGV2LnRyYWRlcnZlcnNlLmlvIiwiaHR0cHM6Ly90cmFkZXJib2FyZC1kZXYudHJhZGVydmVyc2UuaW8iLCJodHRwOi8vbG9jYWxob3N0OjUxNzMiXSwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIiwiZGVmYXVsdC1yb2xlcy10cmFkZXJ2ZXJzZSIsInVtYV9hdXRob3JpemF0aW9uIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fSwic2NvcGUiOiJvcGVuaWQgZW1haWwgcHJvZmlsZSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwibmFtZSI6IkFmc2hlZW4gIElRIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiYWZzaGVlbjEyIiwiZ2l2ZW5fbmFtZSI6IkFmc2hlZW4gIiwiZmFtaWx5X25hbWUiOiJJUSIsImVtYWlsIjoiYWZzaGVlbmlxYmFsY0BnbWFpbC5jb20ifQ.QqYSey9ES0V3j4ewj2a9N2jIc7S_4HR64_RdYIOi-mR_MQKmfFsI_Ge8wvAi_HPshr0Bz21dqtEXIjmovnx0V8QD9IG3ZOHXD3cmlNValgba-16NdzlzGeRQKunb5b1uHs_ifGBVhLwDO4vXS0TPMAPf5-Ug70gwwVaSIk6_lHKr_kSKT5hNuvsNd-riGAe3RLQLqUe2mjd6FourvEtLkgJAr4hZbn0cZAdAsbEiOFi6vh_lH_cin6eKJikgqpx3JCxdF1_m4IwPwsI4SYGYWOBBZLNZpQx8f2amdpid6rSkT5YvT-qGT0oaY-_RjAalxCdcw3UXEwm-9opQlSbQvA\"}",
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/PrivateLayout-C6szlhsC.js",
+      "status_code": 200,
+      "response_time_ms": 0.96,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/Dashboard-SaTOyGO_.css",
+      "status_code": 200,
+      "response_time_ms": 1.06,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/Dashboard-BlDkFpOc.js",
+      "status_code": 200,
+      "response_time_ms": 1.27,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20id='Layer_1'%20data-name='Layer%201'%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20239.74%20209.91'%3e%3cpath%20d='M194.16,67.7c7.49,0,15-.11,22.48,0,14.28.26,22.9,9.09,22.91,23.31,0,9.16-.52,18.36.13,27.47.87,12.09-7.59,24.26-24.34,24.26-15.16,0-30.31.12-45.47-.08-3.87-.05-5.31,1.05-5.18,5,.25,7.66,0,15.32.09,23,.05,5.19-1.16,9.74-6.36,11.92s-9.95.92-14.06-3.21c-21.61-21.72-43.34-43.33-65-65-5.72-5.74-5.83-12.78-.11-18.53q32.56-32.79,65.35-65.35c3.45-3.43,7.45-5.51,12.62-3.37,5.32,2.21,7.54,6.16,7.5,11.75-.06,7.82.2,15.66-.08,23.47-.15,4.24,1.46,5.52,5.5,5.41C178.16,67.55,186.16,67.7,194.16,67.7ZM142.4,143.6c0-2.92,0-5.83,0-8.74,0-10.71,4-14.8,14.74-14.8,18.33,0,36.66-.14,55,.09,4.47.06,5.84-1.38,5.63-5.72-.31-6.31-.32-12.67,0-19,.23-4.5-1.48-5.68-5.78-5.64-18.65.2-37.32.09-56,.08-9.62,0-13.51-3.92-13.59-13.67,0-3.24,0-6.48,0-8.68l-38.11,37.85C116.44,117.58,129.19,130.37,142.4,143.6Z'%20class='fill'%20/%3e%3cpath%20d='M0,104.89V45.4C0,19.91,19.75.15,45.32.06,56.15,0,67-.07,77.81.11,85.74.24,90.89,6.36,89.5,13.54c-1.06,5.49-5.88,9.13-12.62,9.2-10.17.1-20.36.53-30.49-.1C34,21.88,22,32.1,22.1,46.8c.06,12.67,0,25.33,0,38q0,38,0,76c0,18,8.94,26.91,27.07,26.92,9.33,0,18.66-.06,28,0,7.74.08,12.56,4.51,12.46,11.24S84.82,209.88,77,209.89c-11,0-22,0-33,0-23.9-.08-43.87-20.08-43.93-44Q0,135.39,0,104.89Z'%20class='fill'%20/%3e%3c/svg%3e",
+      "status_code": 200,
+      "response_time_ms": 1.4,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20width='15'%20height='15'%20viewBox='0%200%2015%2015'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M0%203.125C0%202.2962%200.32924%201.50134%200.915291%200.915291C1.50134%200.32924%202.2962%200%203.125%200H11.875C12.7038%200%2013.4987%200.32924%2014.0847%200.915291C14.6708%201.50134%2015%202.2962%2015%203.125V11.875C15%2012.7038%2014.6708%2013.4987%2014.0847%2014.0847C13.4987%2014.6708%2012.7038%2015%2011.875%2015H3.125C2.2962%2015%201.50134%2014.6708%200.915291%2014.0847C0.32924%2013.4987%200%2012.7038%200%2011.875V3.125ZM3.125%201.25C2.62772%201.25%202.15081%201.44754%201.79917%201.79917C1.44754%202.15081%201.25%202.62772%201.25%203.125V6.25H8.75V1.25H3.125ZM1.25%207.5V11.875C1.25%2012.3723%201.44754%2012.8492%201.79917%2013.2008C2.15081%2013.5525%202.62772%2013.75%203.125%2013.75H8.75V7.5H1.25ZM10%208.75H13.75V6.25H10V8.75ZM13.75%2010H10V13.75H11.875C12.3723%2013.75%2012.8492%2013.5525%2013.2008%2013.2008C13.5525%2012.8492%2013.75%2012.3723%2013.75%2011.875V10ZM13.75%203.125C13.75%202.62772%2013.5525%202.15081%2013.2008%201.79917C12.8492%201.44754%2012.3723%201.25%2011.875%201.25H10V5H13.75V3.125Z'%20fill='%23736D9D'/%3e%3c/svg%3e",
+      "status_code": 200,
+      "response_time_ms": 0.28,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/traderboards-logo-full-light-tHDsxmAE.svg",
+      "status_code": 200,
+      "response_time_ms": 1.69,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/traderboards-logo-mark-B6V7RyKx.svg",
+      "status_code": 200,
+      "response_time_ms": 1.73,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcCo3FwrK3iLTcviYwY.woff2",
+      "status_code": 200,
+      "response_time_ms": 1.65,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/boardsV2/all",
+      "status_code": 200,
+      "response_time_ms": 2.58,
+      "request_body": null,
+      "response_body": "Could not parse JSON"
+    },
+    {
+      "url": "data:image/png;base64,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",
+      "status_code": 200,
+      "response_time_ms": 0.07,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20width='21'%20height='20'%20viewBox='0%200%2021%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M0.707031%204C0.707031%202.93913%201.12846%201.92172%201.8786%201.17157C2.62875%200.421427%203.64617%200%204.70703%200L16.707%200C17.7679%200%2018.7853%200.421427%2019.5355%201.17157C20.2856%201.92172%2020.707%202.93913%2020.707%204V16C20.707%2017.0609%2020.2856%2018.0783%2019.5355%2018.8284C18.7853%2019.5786%2017.7679%2020%2016.707%2020H4.70703C3.64617%2020%202.62875%2019.5786%201.8786%2018.8284C1.12846%2018.0783%200.707031%2017.0609%200.707031%2016V4ZM14.707%209C14.1766%209%2013.6679%209.21071%2013.2928%209.58579C12.9177%209.96086%2012.707%2010.4696%2012.707%2011V13C12.707%2013.5304%2012.9177%2014.0391%2013.2928%2014.4142C13.6679%2014.7893%2014.1766%2015%2014.707%2015C15.2375%2015%2015.7462%2014.7893%2016.1212%2014.4142C16.4963%2014.0391%2016.707%2013.5304%2016.707%2013V11C16.707%2010.4696%2016.4963%209.96086%2016.1212%209.58579C15.7462%209.21071%2015.2375%209%2014.707%209ZM4.70703%207C4.70703%206.46957%204.91774%205.96086%205.29282%205.58579C5.66789%205.21071%206.1766%205%206.70703%205C7.23746%205%207.74617%205.21071%208.12124%205.58579C8.49632%205.96086%208.70703%206.46957%208.70703%207V13C8.70703%2013.5304%208.49632%2014.0391%208.12124%2014.4142C7.74617%2014.7893%207.23746%2015%206.70703%2015C6.1766%2015%205.66789%2014.7893%205.29282%2014.4142C4.91774%2014.0391%204.70703%2013.5304%204.70703%2013V7Z'%20fill='currentColor'/%3e%3c/svg%3e",
+      "status_code": 200,
+      "response_time_ms": 8.69,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20id='Layer_1'%20data-name='Layer%201'%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20239.74%20209.91'%3e%3cpath%20d='M120.64,142.27c-7.49,0-15,.11-22.48,0-14.28-.26-22.9-9.1-22.91-23.32,0-9.16.52-18.36-.14-27.47-.86-12.08,7.6-24.26,24.35-24.26,15.16,0,30.31-.11,45.46.08,3.88,0,5.32-1,5.19-5-.26-7.65,0-15.32-.09-23-.06-5.19,1.16-9.74,6.36-11.92s10-.92,14.06,3.21q32.42,32.58,64.95,65c5.73,5.75,5.84,12.78.12,18.54q-32.56,32.77-65.35,65.34c-3.45,3.43-7.46,5.52-12.62,3.37-5.32-2.21-7.54-6.16-7.5-11.74.05-7.83-.2-15.66.08-23.48.15-4.24-1.46-5.52-5.5-5.41C136.63,142.43,128.64,142.28,120.64,142.27Zm51.76-75.9v8.74c0,10.72-4.05,14.8-14.75,14.81-18.32,0-36.65.14-55-.1-4.47,0-5.84,1.38-5.62,5.72.31,6.32.32,12.67,0,19-.24,4.49,1.48,5.67,5.77,5.63,18.66-.19,37.32-.09,56-.08,9.62,0,13.52,3.92,13.6,13.68,0,3.24,0,6.48,0,8.67l38.11-37.85C198.35,92.4,185.6,79.61,172.4,66.37Z'%20class='fill'%20/%3e%3cpath%20d='M0,104.89V45.4C0,19.91,19.75.15,45.32.06,56.15,0,67-.07,77.81.11,85.74.24,90.89,6.36,89.5,13.54c-1.06,5.49-5.88,9.13-12.62,9.2-10.17.1-20.36.53-30.49-.1C34,21.88,22,32.1,22.1,46.8c.06,12.67,0,25.33,0,38q0,38,0,76c0,18,8.94,26.91,27.07,26.92,9.33,0,18.66-.06,28,0,7.74.08,12.56,4.51,12.46,11.24S84.82,209.88,77,209.89c-11,0-22,0-33,0-23.9-.08-43.87-20.08-43.93-44Q0,135.39,0,104.89Z'%20class='fill'%20/%3e%3c/svg%3e",
+      "status_code": 200,
+      "response_time_ms": 8.55,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20id='Layer_1'%20data-name='Layer%201'%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20122.88%20121.92'%3e%3cpath%20d='M6.6,121.92H47.51a6.56,6.56,0,0,0,2.83-.64,6.68,6.68,0,0,0,2.27-1.79,6.63,6.63,0,0,0,1.5-4.17V74.58A6.56,6.56,0,0,0,53.58,72,6.62,6.62,0,0,0,50,68.47,6.56,6.56,0,0,0,47.51,68H6.6a6.5,6.5,0,0,0-2.43.48,6.44,6.44,0,0,0-2.11,1.34A6.6,6.6,0,0,0,.55,72,6.3,6.3,0,0,0,0,74.58v40.74a6.54,6.54,0,0,0,.43,2.32,6.72,6.72,0,0,0,1.2,2l.26.27a6.88,6.88,0,0,0,2,1.39,6.71,6.71,0,0,0,2.73.6ZM59.3,28.44,86,1.77A6.19,6.19,0,0,1,88.22.34,6.24,6.24,0,0,1,90.87,0a6,6,0,0,1,3.69,1.74l26.55,26.55a6,6,0,0,1,1.33,2,6.13,6.13,0,0,1-1.33,6.58L94.45,63.58a6,6,0,0,1-1.9,1.27,5.92,5.92,0,0,1-2.24.5,6.11,6.11,0,0,1-2.41-.43,5.74,5.74,0,0,1-2.05-1.34L59.3,37a6.09,6.09,0,0,1-1.76-3.88V32.8a6.14,6.14,0,0,1,1.77-4.36ZM6.6,59.64H47.51a6.56,6.56,0,0,0,5.1-2.43,6.46,6.46,0,0,0,1.11-2,6.59,6.59,0,0,0,.39-2.21V12.31a6.61,6.61,0,0,0-.53-2.58A6.62,6.62,0,0,0,50,6.19a6.56,6.56,0,0,0-2.45-.48H6.6a6.5,6.5,0,0,0-2.43.48A6.44,6.44,0,0,0,2.06,7.53,6.6,6.6,0,0,0,.55,9.71,6.31,6.31,0,0,0,0,12.31V53.05a6.48,6.48,0,0,0,.43,2.31,6.6,6.6,0,0,0,1.2,2l.26.27a6.88,6.88,0,0,0,2,1.39,6.71,6.71,0,0,0,2.73.6Zm40.92-6.57H6.6l0,0V12.28c3.51,0,40.93,0,41,0,0,3.44,0,40.75,0,40.77Zm22.23,68.85h40.91a6.56,6.56,0,0,0,2.83-.64,6.68,6.68,0,0,0,2.27-1.79,6.63,6.63,0,0,0,1.5-4.17V74.58a6.56,6.56,0,0,0-.53-2.57,6.62,6.62,0,0,0-3.62-3.54,6.56,6.56,0,0,0-2.45-.48H69.75a6.75,6.75,0,0,0-4.54,1.82A6.6,6.6,0,0,0,63.7,72a6.3,6.3,0,0,0-.55,2.59v40.74a6.54,6.54,0,0,0,.43,2.32,6.72,6.72,0,0,0,1.2,2l.26.27a6.88,6.88,0,0,0,2,1.39,6.71,6.71,0,0,0,2.73.6Zm40.92-6.57H69.75l0,0,0-40.77c3.51,0,40.93,0,41,0,0,3.44,0,40.75,0,40.77Zm-63.15,0H6.6l0,0V74.56c3.51,0,40.93,0,41,0,0,3.44,0,40.75,0,40.77Z'%20fill='currentColor'%20/%3e%3c/svg%3e",
+      "status_code": 200,
+      "response_time_ms": 8.41,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20width='17'%20height='17'%20viewBox='0%200%2017%2017'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M7.85594%200C3.51776%200%200%203.51606%200%207.85424C0%2012.1924%203.51776%2015.7085%207.85594%2015.7085C9.7192%2015.7124%2011.5225%2015.0504%2012.9406%2013.8417L15.897%2016.7973C15.9553%2016.8598%2016.0257%2016.91%2016.1038%2016.9449C16.1819%2016.9797%2016.2663%2016.9984%2016.3518%2016.9999C16.4373%2017.0014%2016.5223%2016.9857%2016.6016%2016.9536C16.6809%2016.9216%2016.753%2016.8739%2016.8134%2016.8134C16.8739%2016.753%2016.9216%2016.6809%2016.9536%2016.6016C16.9857%2016.5223%2017.0014%2016.4373%2016.9999%2016.3518C16.9984%2016.2663%2016.9797%2016.1819%2016.9449%2016.1038C16.91%2016.0257%2016.8598%2015.9553%2016.7973%2015.897L13.8417%2012.9415C15.0521%2011.5232%2015.7155%209.71881%2015.7119%207.85424C15.7119%203.51606%2012.1941%200%207.85594%200ZM1.27394%207.85424C1.27439%206.10888%201.96804%204.43516%203.20236%203.20116C4.43668%201.96716%206.11058%201.27394%207.85594%201.27394C8.72897%201.25991%209.59607%201.41975%2010.4067%201.74414C11.2174%202.06854%2011.9554%202.551%2012.5777%203.16343C13.2001%203.77586%2013.6943%204.50601%2014.0317%205.31134C14.3691%206.11667%2014.5428%206.98109%2014.5428%207.85424C14.5428%208.72738%2014.3691%209.5918%2014.0317%2010.3971C13.6943%2011.2025%2013.2001%2011.9326%2012.5777%2012.545C11.9554%2013.1575%2011.2174%2013.6399%2010.4067%2013.9643C9.59607%2014.2887%208.72897%2014.4486%207.85594%2014.4345C6.11058%2014.4345%204.43668%2013.7413%203.20236%2012.5073C1.96804%2011.2733%201.27439%209.5996%201.27394%207.85424Z'%20fill='currentColor'/%3e%3c/svg%3e",
+      "status_code": 200,
+      "response_time_ms": 8.26,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20width='30'%20height='30'%20viewBox='0%200%2030%2030'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M8.59998%2023.625C8.08748%2023.625%207.66248%2023.2%207.66248%2022.6875V20.1C7.66248%2019.5875%208.08748%2019.1625%208.59998%2019.1625C9.11248%2019.1625%209.53748%2019.5875%209.53748%2020.1V22.6875C9.53748%2023.2125%209.11248%2023.625%208.59998%2023.625Z'%20fill='currentColor'/%3e%3cpath%20d='M15%2023.625C14.4875%2023.625%2014.0625%2023.2%2014.0625%2022.6875V17.5C14.0625%2016.9875%2014.4875%2016.5625%2015%2016.5625C15.5125%2016.5625%2015.9375%2016.9875%2015.9375%2017.5V22.6875C15.9375%2023.2125%2015.5125%2023.625%2015%2023.625Z'%20fill='currentColor'/%3e%3cpath%20d='M21.4%2023.625C20.8875%2023.625%2020.4625%2023.2%2020.4625%2022.6875V14.9125C20.4625%2014.4%2020.8875%2013.975%2021.4%2013.975C21.9125%2013.975%2022.3375%2014.4%2022.3375%2014.9125V22.6875C22.3375%2023.2125%2021.925%2023.625%2021.4%2023.625Z'%20fill='currentColor'/%3e%3cpath%20d='M8.59997%2016.475C8.17497%2016.475%207.79997%2016.1875%207.68747%2015.7625C7.56247%2015.2625%207.86247%2014.75%208.37497%2014.625C12.975%2013.475%2017.025%2010.9625%2020.1125%207.37502L20.6875%206.70002C21.025%206.31252%2021.6125%206.26252%2022.0125%206.60002C22.4%206.93752%2022.45%207.52502%2022.1125%207.92502L21.5375%208.60002C18.2%2012.5%2013.8%2015.2125%208.82497%2016.45C8.74997%2016.475%208.67497%2016.475%208.59997%2016.475Z'%20fill='currentColor'/%3e%3cpath%20d='M21.4001%2011.9C20.8876%2011.9%2020.4626%2011.475%2020.4626%2010.9625V8.25H17.7375C17.225%208.25%2016.8%207.825%2016.8%207.3125C16.8%206.8%2017.225%206.375%2017.7375%206.375H21.4001C21.9126%206.375%2022.3376%206.8%2022.3376%207.3125V10.975C22.3376%2011.4875%2021.9251%2011.9%2021.4001%2011.9Z'%20fill='currentColor'/%3e%3cpath%20d='M18.75%2028.4375H11.25C4.4625%2028.4375%201.5625%2025.5375%201.5625%2018.75V11.25C1.5625%204.4625%204.4625%201.5625%2011.25%201.5625H18.75C25.5375%201.5625%2028.4375%204.4625%2028.4375%2011.25V18.75C28.4375%2025.5375%2025.5375%2028.4375%2018.75%2028.4375ZM11.25%203.4375C5.4875%203.4375%203.4375%205.4875%203.4375%2011.25V18.75C3.4375%2024.5125%205.4875%2026.5625%2011.25%2026.5625H18.75C24.5125%2026.5625%2026.5625%2024.5125%2026.5625%2018.75V11.25C26.5625%205.4875%2024.5125%203.4375%2018.75%203.4375H11.25Z'%20fill='currentColor'/%3e%3c/svg%3e",
+      "status_code": 200,
+      "response_time_ms": 8.02,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20width='30'%20height='30'%20viewBox='0%200%2030%2030'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M18.75%2028.4375H11.25C4.4625%2028.4375%201.5625%2025.5375%201.5625%2018.75V11.25C1.5625%204.4625%204.4625%201.5625%2011.25%201.5625H18.75C25.5375%201.5625%2028.4375%204.4625%2028.4375%2011.25V18.75C28.4375%2025.5375%2025.5375%2028.4375%2018.75%2028.4375ZM11.25%203.4375C5.4875%203.4375%203.4375%205.4875%203.4375%2011.25V18.75C3.4375%2024.5125%205.4875%2026.5625%2011.25%2026.5625H18.75C24.5125%2026.5625%2026.5625%2024.5125%2026.5625%2018.75V11.25C26.5625%205.4875%2024.5125%203.4375%2018.75%203.4375H11.25Z'%20fill='currentColor'/%3e%3cpath%20d='M9.16252%2019.05C8.96252%2019.05%208.76252%2018.9875%208.58752%2018.85C8.17502%2018.5375%208.10002%2017.95%208.41252%2017.5375L11.3875%2013.675C11.75%2013.2125%2012.2625%2012.9125%2012.85%2012.8375C13.425%2012.7625%2014.0125%2012.925%2014.475%2013.2875L16.7625%2015.0875C16.85%2015.1625%2016.9375%2015.1625%2017%2015.15C17.05%2015.15%2017.1375%2015.125%2017.2125%2015.025L20.1%2011.3C20.4125%2010.8875%2021.0125%2010.8125%2021.4125%2011.1375C21.825%2011.45%2021.9%2012.0375%2021.575%2012.45L18.6875%2016.175C18.325%2016.6375%2017.8125%2016.9375%2017.225%2017C16.6375%2017.075%2016.0625%2016.9125%2015.6%2016.55L13.3125%2014.75C13.225%2014.675%2013.125%2014.675%2013.075%2014.6875C13.025%2014.6875%2012.9375%2014.7125%2012.8625%2014.8125L9.88752%2018.675C9.72502%2018.925%209.45002%2019.05%209.16252%2019.05Z'%20fill='currentColor'/%3e%3c/svg%3e",
+      "status_code": 200,
+      "response_time_ms": 7.68,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20width='30'%20height='30'%20viewBox='0%200%2030%2030'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M15.15%2020.3C12.3125%2020.3%2010%2017.9875%2010%2015.15C10%2012.3125%2012.3125%2010%2015.15%2010C17.9875%2010%2020.3%2012.3125%2020.3%2015.15C20.3%2017.9875%2018%2020.3%2015.15%2020.3ZM15.15%2011.8625C13.3375%2011.8625%2011.875%2013.3375%2011.875%2015.1375C11.875%2016.9375%2013.35%2018.4125%2015.15%2018.4125C16.95%2018.4125%2018.425%2016.9375%2018.425%2015.1375C18.425%2013.3375%2016.9625%2011.8625%2015.15%2011.8625Z'%20fill='currentColor'/%3e%3cpath%20d='M15%2028.4375C7.5875%2028.4375%201.5625%2022.4125%201.5625%2015C1.5625%207.5875%207.5875%201.5625%2015%201.5625C22.4125%201.5625%2028.4375%207.5875%2028.4375%2015C28.4375%2022.4125%2022.4125%2028.4375%2015%2028.4375ZM15%203.4375C8.625%203.4375%203.4375%208.625%203.4375%2015C3.4375%2021.375%208.625%2026.5625%2015%2026.5625C21.375%2026.5625%2026.5625%2021.375%2026.5625%2015C26.5625%208.625%2021.375%203.4375%2015%203.4375Z'%20fill='currentColor'/%3e%3cpath%20d='M15.0625%2022C14.5158%2022%2014.0625%2021.5192%2014.0625%2020.9394V9.06061C14.0625%208.48081%2014.5158%208%2015.0625%208C15.6092%208%2016.0625%208.48081%2016.0625%209.06061V20.9394C16.0625%2021.5192%2015.6092%2022%2015.0625%2022Z'%20fill='currentColor'/%3e%3c/svg%3e",
+      "status_code": 200,
+      "response_time_ms": 7.3,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20width='27'%20height='22'%20viewBox='0%200%2027%2022'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M22.6125%2022H4.3875C3.26681%2022.0001%202.18858%2021.5634%201.37399%2020.7794C0.559395%2019.9955%200.0701982%2018.9239%200.00675018%2017.7843L2.29482e-08%2017.5312V3.09375C-9.45295e-05%202.30983%200.291999%201.5551%200.817249%200.982089C1.3425%200.409082%202.06173%200.0605304%202.8296%200.00687518L3.0375%202.33732e-08H19.9125C20.6822%20-9.62801e-05%2021.4232%200.297406%2021.9858%200.832383C22.5484%201.36736%2022.8906%202.09991%2022.9433%202.882L22.95%203.09375V4.125H23.9625C24.7322%204.1249%2025.4732%204.42241%2026.0358%204.95738C26.5984%205.49236%2026.9406%206.22491%2026.9933%207.007L27%207.21875V17.5312C27.0001%2018.6727%2026.5713%2019.7709%2025.8016%2020.6006C25.032%2021.4302%2023.9798%2021.9285%2022.8609%2021.9931L22.6125%2022ZM4.3875%2019.9375H22.6125C23.2056%2019.9374%2023.777%2019.7102%2024.2132%2019.3008C24.6494%2018.8914%2024.9184%2018.33%2024.9669%2017.7279L24.975%2017.5312V7.21875C24.975%206.96955%2024.8864%206.72878%2024.7256%206.54097C24.5647%206.35316%2024.3426%206.23102%2024.1002%206.19712L23.9625%206.1875H22.95V16.8438C22.95%2017.093%2022.8614%2017.3337%2022.7006%2017.5215C22.5397%2017.7093%2022.3176%2017.8315%2022.0752%2017.8654L21.9375%2017.875C21.6928%2017.875%2021.4564%2017.7847%2021.272%2017.6209C21.0876%2017.4571%2020.9677%2017.2309%2020.9345%2016.984L20.925%2016.8438V3.09375C20.925%202.84455%2020.8364%202.60378%2020.6756%202.41597C20.5147%202.22816%2020.2926%202.10602%2020.0502%202.07212L19.9125%202.0625H3.0375C2.79283%202.06251%202.55644%202.15276%202.37204%202.31656C2.18765%202.48035%202.06773%202.70661%202.03445%202.9535L2.025%203.09375V17.5312C2.02502%2018.1351%202.24798%2018.7169%202.64962%2019.1612C3.05125%2019.6054%203.6022%2019.8796%204.1931%2019.9292L4.3875%2019.9375ZM13.8321%2014.4375H17.8902C18.1467%2014.4376%2018.3937%2014.5368%2018.5811%2014.7152C18.7686%2014.8936%2018.8826%2015.1378%2018.9%2015.3985C18.9175%2015.6591%2018.8372%2015.9169%2018.6753%2016.1195C18.5134%2016.3222%2018.282%2016.4548%2018.0279%2016.4904L17.8902%2016.5H13.8321C13.5756%2016.4999%2013.3286%2016.4007%2013.1412%2016.2223C12.9537%2016.0439%2012.8398%2015.7997%2012.8223%2015.539C12.8048%2015.2784%2012.8851%2015.0206%2013.047%2014.818C13.2089%2014.6153%2013.4403%2014.4827%2013.6944%2014.4471L13.8321%2014.4375ZM9.77805%209.63188C10.0466%209.63188%2010.3041%209.74052%2010.494%209.93392C10.6839%2010.1273%2010.7906%2010.3896%2010.7906%2010.6631V15.4688C10.7906%2015.7423%2010.6839%2016.0046%2010.494%2016.198C10.3041%2016.3914%2010.0466%2016.5%209.77805%2016.5H5.0598C4.79127%2016.5%204.53373%2016.3914%204.34385%2016.198C4.15397%2016.0046%204.0473%2015.7423%204.0473%2015.4688V10.6631C4.0473%2010.3896%204.15397%2010.1273%204.34385%209.93392C4.53373%209.74052%204.79127%209.63188%205.0598%209.63188H9.77805ZM8.76555%2011.6944H6.0723V14.4375H8.76555V11.6944ZM13.8321%209.63188H17.8902C18.1467%209.63196%2018.3937%209.73121%2018.5811%209.90959C18.7686%2010.088%2018.8826%2010.3322%2018.9%2010.5928C18.9175%2010.8535%2018.8372%2011.1112%2018.6753%2011.3139C18.5134%2011.5166%2018.282%2011.6491%2018.0279%2011.6848L17.8902%2011.6944H13.8321C13.5737%2011.6971%2013.3242%2011.599%2013.1344%2011.4204C12.9447%2011.2417%2012.8293%2010.996%2012.8117%2010.7334C12.7941%2010.4709%2012.8757%2010.2114%2013.0398%2010.0082C13.2039%209.8049%2013.4381%209.67324%2013.6944%209.64012L13.8321%209.63188ZM5.0598%204.81525H17.8902C18.1486%204.81257%2018.3981%204.9106%2018.5879%205.08925C18.7776%205.2679%2018.893%205.51366%2018.9106%205.7762C18.9282%206.03875%2018.8466%206.29821%2018.6825%206.50147C18.5184%206.70472%2018.2842%206.83639%2018.0279%206.8695L17.8902%206.87775H5.0598C4.80327%206.87767%204.55633%206.77841%204.36888%206.60004C4.18143%206.42166%204.06745%206.17746%204.04997%205.91679C4.03248%205.65612%204.1128%205.3984%204.27468%205.19571C4.43657%204.99303%204.66796%204.86049%204.9221%204.82487L5.0598%204.81525Z'%20fill='currentColor'/%3e%3c/svg%3e",
+      "status_code": 200,
+      "response_time_ms": 6.97,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseSeasonality-D4qfrVar.png",
+      "status_code": 200,
+      "response_time_ms": 16.32,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseStockAssetSpecificPriceTargetConsensus-CvKscdB2.png",
+      "status_code": 200,
+      "response_time_ms": 16.46,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseEarning-BUm8DfXH.png",
+      "status_code": 200,
+      "response_time_ms": 16.68,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseStockPeopleKey-B7bfJ2dS.png",
+      "status_code": 200,
+      "response_time_ms": 16.97,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseUpgradesDowngrades-B5fDlS59.png",
+      "status_code": 200,
+      "response_time_ms": 17.08,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseShareStructure-Dmn1yeqj.png",
+      "status_code": 200,
+      "response_time_ms": 16.96,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCongressTradingMarketWide-BNeric8e.png",
+      "status_code": 200,
+      "response_time_ms": 17.15,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderversePricePerformance-DShzctMQ.png",
+      "status_code": 200,
+      "response_time_ms": 17.44,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseStockAssetSpecificUpgradesDowngrades-nZMJOQB6.png",
+      "status_code": 200,
+      "response_time_ms": 17.65,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseKlineChartPro-BUyp7kx_.png",
+      "status_code": 200,
+      "response_time_ms": 17.76,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseFinancialStatements-DXGVH7Th.png",
+      "status_code": 200,
+      "response_time_ms": 18.25,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseStocksSpecificInsiderTradingFlow-CB2sBNPf.png",
+      "status_code": 200,
+      "response_time_ms": 17.53,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCompanyStockDetail-vxWHfqfH.png",
+      "status_code": 200,
+      "response_time_ms": 18.73,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderversePriceCamparison-mYit9G5V.png",
+      "status_code": 200,
+      "response_time_ms": 17.84,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderversePriceRatio-Dqs3Nb1x.png",
+      "status_code": 200,
+      "response_time_ms": 18.15,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseShortVolume-Bk7OnB7A.png",
+      "status_code": 200,
+      "response_time_ms": 18.57,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseAnalystPriceTargetsStock-DcWXl9cr.png",
+      "status_code": 200,
+      "response_time_ms": 18.59,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseStockAssetSpecificNewsPressRelease-lmWwC--u.png",
+      "status_code": 200,
+      "response_time_ms": 18.82,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseStockAssetSpecificAnalystPriceTarget-kYQDZ4tE.png",
+      "status_code": 200,
+      "response_time_ms": 18.94,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseFundamentals-DW8vt7w_.png",
+      "status_code": 200,
+      "response_time_ms": 18.98,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseTopMovers-D0NKtf-y.png",
+      "status_code": 200,
+      "response_time_ms": 18.92,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseHighlights-BZSQgiEt.png",
+      "status_code": 200,
+      "response_time_ms": 19.22,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketNews-wVK3INl-.png",
+      "status_code": 200,
+      "response_time_ms": 19.29,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseTreasuryRates-D2nlNUEz.png",
+      "status_code": 200,
+      "response_time_ms": 19.35,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketLeaders-C2jqr9Ls.png",
+      "status_code": 200,
+      "response_time_ms": 20.4,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseTopIndex-Bd3rUWAZ.png",
+      "status_code": 200,
+      "response_time_ms": 25.98,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseUpComingEarning-Cxjag5jL.png",
+      "status_code": 200,
+      "response_time_ms": 29.63,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketHeatMap-BzHvlV4g.png",
+      "status_code": 200,
+      "response_time_ms": 29.78,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketSectorPerformance-CNYr0Xbj.png",
+      "status_code": 200,
+      "response_time_ms": 31.78,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseSectorRotation-CBhuMAND.png",
+      "status_code": 200,
+      "response_time_ms": 32.2,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketingBreif-DA3iBFmN.png",
+      "status_code": 200,
+      "response_time_ms": 32.67,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketWideInsiderActivityFlow-78BsEwWu.png",
+      "status_code": 200,
+      "response_time_ms": 32.81,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketSectorCorrelation-Bqlliksd.png",
+      "status_code": 200,
+      "response_time_ms": 33.41,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseHistoricalTreasuryRates-CF5I0amJ.png",
+      "status_code": 200,
+      "response_time_ms": 36.7,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseHighYieldDividend-RsfsnTwE.png",
+      "status_code": 200,
+      "response_time_ms": 37.34,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketCurrentGradeDistributionGrid-CSNiF7h7.png",
+      "status_code": 200,
+      "response_time_ms": 37.73,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseDividendPaymentTimeline-BfnV-U4f.png",
+      "status_code": 200,
+      "response_time_ms": 37.99,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseIPOPriceDistribution-DSX9vsLH.png",
+      "status_code": 200,
+      "response_time_ms": 37.97,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseBullvsBearTargetMeter-Cp_d7MdG.png",
+      "status_code": 200,
+      "response_time_ms": 38.18,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseIPOTimelineCalendar-CSnJrkWc.png",
+      "status_code": 200,
+      "response_time_ms": 38.25,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseRatingActionMomentumTracker-DT9DZ415.png",
+      "status_code": 200,
+      "response_time_ms": 38.62,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseTreasuryYieldCurve-C-46k0Rj.png",
+      "status_code": 200,
+      "response_time_ms": 38.84,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseBiggestGainers-C4TmEmYV.png",
+      "status_code": 200,
+      "response_time_ms": 39.0,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMostActiveStock-BwU3LIA1.png",
+      "status_code": 200,
+      "response_time_ms": 39.14,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseBiggestlosers-BHtXm0X1.png",
+      "status_code": 200,
+      "response_time_ms": 39.97,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseWinnersLosersExchange-CWmY-8y3.png",
+      "status_code": 200,
+      "response_time_ms": 39.93,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseStockSplits-UmCrxs_G.png",
+      "status_code": 200,
+      "response_time_ms": 40.14,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseValuationGaugeDashboard-CmRU5dmj.png",
+      "status_code": 200,
+      "response_time_ms": 41.35,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderversePriceTargetConsensusDashboard-DOxPwIWP.png",
+      "status_code": 200,
+      "response_time_ms": 41.69,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketPulse-BtlhIr6h.png",
+      "status_code": 200,
+      "response_time_ms": 41.72,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderversePriceTargetGapVisualizer-BxT0MnXT.png",
+      "status_code": 200,
+      "response_time_ms": 41.76,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseInsiderBuySellMomentumTimeline-Dyfn-Xcb.png",
+      "status_code": 200,
+      "response_time_ms": 42.0,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketSectorValuationHeatmap-BWUGZnsa.png",
+      "status_code": 200,
+      "response_time_ms": 41.93,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketDividendYieldHeatmap-B1G5mMIm.png",
+      "status_code": 200,
+      "response_time_ms": 42.09,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketPETrendSparklines-CMvAK7vA.png",
+      "status_code": 200,
+      "response_time_ms": 42.14,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseRelativeValuationBarChart-BMge-uma.png",
+      "status_code": 200,
+      "response_time_ms": 42.29,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseIPODealSizeBubble-C5oxRcNu.png",
+      "status_code": 200,
+      "response_time_ms": 42.23,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketWinLossMarketCap-DYN166Ch.png",
+      "status_code": 200,
+      "response_time_ms": 42.43,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseYieldDistributionAnalyzer-BnexlpiZ.png",
+      "status_code": 200,
+      "response_time_ms": 42.48,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketWinLossSector-CgeLAESk.png",
+      "status_code": 200,
+      "response_time_ms": 42.57,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketDistributionMoverType-B0iHrXjw.png",
+      "status_code": 200,
+      "response_time_ms": 42.66,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketExecutivePay-D4uqubB4.png",
+      "status_code": 200,
+      "response_time_ms": 42.75,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketInsiderAcquisitionDispositionDistribution-CCRZ1lBD.png",
+      "status_code": 200,
+      "response_time_ms": 42.83,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketInsiderOwnershipPowerDistribution-BGBgio94.png",
+      "status_code": 200,
+      "response_time_ms": 42.88,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseMarketRecentInsiderTransactions-DqUjeJtg.png",
+      "status_code": 200,
+      "response_time_ms": 43.02,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoBreakDownByCountry-D1HTyWrH.png",
+      "status_code": 200,
+      "response_time_ms": 43.09,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseBreakdownCountry-CFUlBPRd.png",
+      "status_code": 200,
+      "response_time_ms": 43.38,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoBitcoinDominance-CyPeBQDV.png",
+      "status_code": 200,
+      "response_time_ms": 43.48,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoBitcoinDominanceChart-DSuJzqFQ.png",
+      "status_code": 200,
+      "response_time_ms": 43.63,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoAirdrops-nkLJ4Ruz.png",
+      "status_code": 200,
+      "response_time_ms": 43.72,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoMarketCapChart-CsXtmbZS.png",
+      "status_code": 200,
+      "response_time_ms": 44.27,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoCompany-B6y7s7Cd.png",
+      "status_code": 200,
+      "response_time_ms": 48.04,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoMarketCap-CfN0sUIg.png",
+      "status_code": 200,
+      "response_time_ms": 48.19,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoMarketChartBreakdown-CAe1NRPH.png",
+      "status_code": 200,
+      "response_time_ms": 48.25,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoSpotChart-7_PJpjbX.png",
+      "status_code": 200,
+      "response_time_ms": 48.74,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoTopMovers-DbJYogCr.png",
+      "status_code": 200,
+      "response_time_ms": 49.86,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseFearAndGreed-BuEeXqfz.png",
+      "status_code": 200,
+      "response_time_ms": 51.27,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseFearAndGreedChart-C1eQ2Ojv.png",
+      "status_code": 200,
+      "response_time_ms": 51.38,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseCryptoLiveCard-CPPqnZ1i.png",
+      "status_code": 200,
+      "response_time_ms": 51.56,
+      "request_body": null,
+      "response_body": "Not captured"
+    },
+    {
+      "url": "https://traderboard-dev.traderverse.io/assets/TraderverseSpotVolumeChart-Dxk0_lGW.png",
+      "status_code": 200,
+      "response_time_ms": 51.77,
+      "request_body": null,
+      "response_body": "Not captured"
+    }
+  ],
+  "console_logs": [
+    {
+      "level": "WARNING",
+      "message": "https://traderboard-dev.traderverse.io/assets/index-CcXLyvxi.js 220:12929 \"[Keycloak] CORS Configuration Required:\"",
+      "timestamp": 1770915087346
+    },
+    {
+      "level": "WARNING",
+      "message": "https://traderboard-dev.traderverse.io/assets/index-CcXLyvxi.js 220:12985 \"  - This origin must be added to Keycloak client 'Web Origins'\"",
+      "timestamp": 1770915087346
+    },
+    {
+      "level": "WARNING",
+      "message": "https://traderboard-dev.traderverse.io/assets/index-CcXLyvxi.js 220:13064 \"  - Web Origins must be specific (e.g., 'http://localhost:5173'), NOT wildcard '*'\"",
+      "timestamp": 1770915087346
+    },
+    {
+      "level": "WARNING",
+      "message": "https://traderboard-dev.traderverse.io/assets/index-CcXLyvxi.js 220:13163 \"  - When credentials are included, wildcard origins are not allowed by CORS policy\"",
+      "timestamp": 1770915087346
+    },
+    {
+      "level": "WARNING",
+      "message": "https://traderboard-dev.traderverse.io/assets/index-CcXLyvxi.js 220:12929 \"[Keycloak] CORS Configuration Required:\"",
+      "timestamp": 1770915092676
+    },
+    {
+      "level": "WARNING",
+      "message": "https://traderboard-dev.traderverse.io/assets/index-CcXLyvxi.js 220:12985 \"  - This origin must be added to Keycloak client 'Web Origins'\"",
+      "timestamp": 1770915092676
+    },
+    {
+      "level": "WARNING",
+      "message": "https://traderboard-dev.traderverse.io/assets/index-CcXLyvxi.js 220:13064 \"  - Web Origins must be specific (e.g., 'http://localhost:5173'), NOT wildcard '*'\"",
+      "timestamp": 1770915092676
+    },
+    {
+      "level": "WARNING",
+      "message": "https://traderboard-dev.traderverse.io/assets/index-CcXLyvxi.js 220:13163 \"  - When credentials are included, wildcard origins are not allowed by CORS policy\"",
+      "timestamp": 1770915092676
+    }
+  ]
+}
