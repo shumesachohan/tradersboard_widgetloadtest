@@ -1,0 +1,347 @@
+[
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/company/general",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.84
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/ticker/price/performance",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.1
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/company/general",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.01
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/overview/share_stats",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.94
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/overview/share_stats",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.98
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/company/general",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.08
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/company/fundamental",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.97
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/discover/treasury_rates",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.5
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/company/fundamental",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.0
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/company/web_premium_table/insider_trades",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.97
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/company/web_premium_table/security_short_vol",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.94
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/company/web_premium_table/security_short_vol",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.95
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/discover/news",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.7
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/discover/sector_performance",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.62
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_cap_chart",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.33
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_company_treasury",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.38
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_company_treasury",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.43
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_company_treasury",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.41
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_airdrop?limit=10&offset=0&type=UPCOMING",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.47
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/news_sentiment",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.58
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_airdrop?limit=10&offset=0&type=UPCOMING",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.51
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_winner_loser?limit=10&offset=0&type=loser&source=coinmarketcap&topCoins=all&period=1h",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.44
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_tending?limit=10&offset=0",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.38
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_winner_loser?limit=10&offset=0&type=loser&source=coinmarketcap&topCoins=all&period=1h",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.47
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/discover/economic_events",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.87
+  },
+  {
+    "real_url": "https://tradersboard-dev-api.traderverse.io/api/v1/discover/winner-losers-by-exchange?moverType=MostActive&interval=1d&exchange=all",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.21
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/news_stats",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.41
+  },
+  {
+    "real_url": "https://tradersboard-dev-api.traderverse.io/api/v1/discover/price-target-consensus?p_min_yield=4&p_top_n=10&p_sort_by=yield&p_exclude_special_dividends=true&start_date=2026-01-13&end_date=2026-02-13&symbols=AAPL&symbols=AMZN",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.35
+  },
+  {
+    "real_url": "https://tradersboard-dev-api.traderverse.io/api/v1/discover/price-target-consensus?p_min_yield=4&p_top_n=10&p_sort_by=yield&p_exclude_special_dividends=true&start_date=2026-01-13&end_date=2026-02-13&symbols=AAPL&symbols=AMZN",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.41
+  },
+  {
+    "real_url": "https://tradersboard-dev-api.traderverse.io/api/v1/discover/price-target-consensus?p_min_yield=4&p_top_n=10&p_sort_by=yield&p_exclude_special_dividends=true&start_date=2026-01-13&end_date=2026-02-13&symbols=AAPL&symbols=AMZN",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.48
+  },
+  {
+    "real_url": "https://tradersboard-dev-api.traderverse.io/api/v1/discover/sector-valuation-heatmap?sectorType=All&start_date=2024-01-01&end_date=2024-06-30&min_pe_threshold=10&max_pe_threshold=30&color_scale_min=0&color_scale_max=50&sort_by=pe_value",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.27
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/crypto_market_tending?limit=10&offset=0",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.03
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/crypto/marketcap/top?limit=10",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.02
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/company/general",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.32
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/discover/index",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.31
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/bias_distribution",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.01
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/news_list",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.79
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/official_publishers",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.77
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/must_read_news",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.91
+  },
+  {
+    "real_url": "https://tradersboard-dev-api.traderverse.io/api/v1/discover/relative-valuation-sector?p_benchmark_type=market_average&p_custom_benchmark=1500.25&p_display_mode=relative&p_sort_order=highest_to_lowest&p_date_selection=2025-06-19&p_exchange_filter=NASDAQ&p_min_pe=5&p_max_pe=30",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.91
+  },
+  {
+    "real_url": "https://tradersboard-dev-api.traderverse.io/api/v1/discover/dividend-yield-heatmap?p_yield_brackets=2%2C4&p_frequency=Monthly&p_start_date=2025-01-01&p_end_date=2025-12-31",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 5.18
+  },
+  {
+    "real_url": "https://brief-summary.traderverse.io/news_market_briefing",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.98
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/latest_press",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.05
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/company/general",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.86
+  },
+  {
+    "real_url": "https://brief-summary.traderverse.io/user_ask",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.92
+  },
+  {
+    "real_url": "https://pricestream.traderverse.io/prices?symbol=AAPL_NASDAQ&interval=daily&sub_points=1&start_date=2025-02-13T00:00:00.000Z&end_date=2026-02-13T23:59:59.999Z",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.93
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/hr-real-estate-investment-trust-hrunca-q4-2025-earnings-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.33
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/hr-real-estate-investment-trust-hrunca-q4-2025-earnings-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.96
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/anet-earnings-surge-ai-infrastructure-adds-muscle-to-growth-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.3
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/toll-brothers-to-report-q1-earnings-heres-what-investors-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.4
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/toll-brothers-to-report-q1-earnings-heres-what-investors-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.03
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/hecla-mining-q4-earnings-on-the-deck-how-to-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.44
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/mrk-up-more-than-7-on-improved-longterm-prospects-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.43
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/twilio-buy-these-strong-results-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.42
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/is-rios-higher-copper-production-a-catalyst-for-future-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.5
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/hecla-mining-q4-earnings-on-the-deck-how-to-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.14
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/eversource-energy-es-q4-2025-earnings-call-transcript-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.46
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/healthcare-realty-trust-incorporated-hr-q4-2025-earnings-call-20260213.png",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.51
+  },
+  {
+    "real_url": "https://tradersboard-dev-api.traderverse.io/api/v1/discover/stock-split?splitType=All&minRatio=10",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 6.61
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/is-rios-higher-copper-production-a-catalyst-for-future-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.23
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/eversource-energy-es-q4-2025-earnings-call-transcript-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.16
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/anet-earnings-surge-ai-infrastructure-adds-muscle-to-growth-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.25
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/twilio-buy-these-strong-results-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.26
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/mrk-up-more-than-7-on-improved-longterm-prospects-20260213.jpg",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.32
+  },
+  {
+    "real_url": "https://images.financialmodelingprep.com/news/healthcare-realty-trust-incorporated-hr-q4-2025-earnings-call-20260213.png",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 3.29
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/overall_sentiment",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 2.16
+  },
+  {
+    "real_url": "https://tradersboard-dev-api.traderverse.io/api/v1/discover/movers?type=MostActive&interval=5d",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 7.1
+  },
+  {
+    "real_url": "https://tradersboard-dev-api.traderverse.io/api/v1/discover/movers?type=Looser&interval=5d",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 7.17
+  },
+  {
+    "real_url": "https://marketsdata-prod-ff.traderverse.io/api/v1/discover/congress_trading",
+    "proxy_url": "https://traderboard-dev.traderverse.io/traderboard-nestjs/proxy",
+    "response_time_ms": 4.64
+  }
+]

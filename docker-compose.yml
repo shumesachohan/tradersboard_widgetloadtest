@@ -28,7 +28,12 @@ services:
        - EMAIL_PASS=rxkqlgmswevrdzpi
        - BASE_URL=https://traderboard-dev.traderverse.io/
        - INSTANCE_ID=instance156526
-       - TOKEN=vpnnhppm2vxml11m
-       - CHAT_ID=120363408117117262@g.us
+       - TOKEN=pxx7i93pzwgvdz6l
+       - ERROR_CHAT_ID =120363424472771380@g.us
+       - CHAT_ID =120363408117117262@g.us
+       
+       
+
+
 
     command: ["python3", "main.py"]

@@ -1,0 +1,104 @@
+[WARNING] https://traderboard-dev.traderverse.io/assets/index-Ckf8GkI3.js 220:12860 "[Keycloak] CORS Configuration Required:"
+[WARNING] https://traderboard-dev.traderverse.io/assets/index-Ckf8GkI3.js 220:12916 "  - This origin must be added to Keycloak client 'Web Origins'"
+[WARNING] https://traderboard-dev.traderverse.io/assets/index-Ckf8GkI3.js 220:12995 "  - Web Origins must be specific (e.g., 'http://localhost:5173'), NOT wildcard '*'"
+[WARNING] https://traderboard-dev.traderverse.io/assets/index-Ckf8GkI3.js 220:13094 "  - When credentials are included, wildcard origins are not allowed by CORS policy"
+[WARNING] https://traderboard-dev.traderverse.io/assets/index-Ckf8GkI3.js 220:12860 "[Keycloak] CORS Configuration Required:"
+[WARNING] https://traderboard-dev.traderverse.io/assets/index-Ckf8GkI3.js 220:12916 "  - This origin must be added to Keycloak client 'Web Origins'"
+[WARNING] https://traderboard-dev.traderverse.io/assets/index-Ckf8GkI3.js 220:12995 "  - Web Origins must be specific (e.g., 'http://localhost:5173'), NOT wildcard '*'"
+[WARNING] https://traderboard-dev.traderverse.io/assets/index-Ckf8GkI3.js 220:13094 "  - When credentials are included, wildcard origins are not allowed by CORS policy"
+[WARNING] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:2416356 "No exchange data available"
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')
+[WARNING] https://code.highcharts.com/highcharts.js 9:194 "Invalid language tag: "
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:3666167 "Error fetching chart data:" RangeError: Invalid language tag: 
+    at new NumberFormat (<anonymous>)
+    at nn.eM (https://code.highcharts.com/highcharts.js:10:30154)
+    at Object.defaultLabelFormatter (https://code.highcharts.com/highcharts.js:10:81949)
+    at Object.v (https://code.highcharts.com/highcharts.js:10:73694)
+    at sA.addLabel (https://code.highcharts.com/highcharts.js:10:73706)
+    at new sA (https://code.highcharts.com/highcharts.js:10:72866)
+    at s5.generateTick (https://code.highcharts.com/highcharts.js:10:99813)
+    at https://code.highcharts.com/highcharts.js:10:100604
+    at Array.forEach (<anonymous>)
+    at s5.getOffset (https://code.highcharts.com/highcharts.js:10:100582)
+[SEVERE] https://code.highcharts.com/highcharts.js 9:30153 Uncaught RangeError: Invalid language tag: 
+[SEVERE] https://cdn.plot.ly/plotly-latest.min.js 6:8 "WARNING: plotly-latest.min.js and plotly-latest.js are NO LONGER the latest releases of plotly.js. They are v1.58.5 (released July 2021), the end of the v1.x line, and will not be updated again. To use more recent versions of plotly.js, please update your links to point to an explicit version on cdn.plot.ly. You can find the latest version information at https://github.com/plotly/plotly.js/releases"
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:2983084 "Error fetching chart data:" TypeError: Cannot convert undefined or null to object
+    at Object.keys (<anonymous>)
+    at window.TraderversePriceCamparison.drawChart (https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048:2:2985576)
+    at window.TraderversePriceCamparison.renderAnalystRating (https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048:2:2985377)
+    at window.TraderversePriceCamparison.updateDisplay (https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048:2:2983293)
+    at window.TraderversePriceCamparison.setupChart (https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048:2:2983011)
+    at async window.TraderversePriceCamparison.init (https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048:2:2973698)
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1 Error: <path> attribute d: Expected number, "… 3.69189V6.94189...".
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1 Error: <path> attribute d: Expected number, "… 3.69189V6.94189...".
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:2985575 Uncaught TypeError: Cannot convert undefined or null to object
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:2985575 Uncaught TypeError: Cannot convert undefined or null to object
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1:754980 Uncaught TypeError: Cannot read properties of null (reading 'querySelector')
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1 Error: <path> attribute d: Expected number, "… 3.69189V6.94189...".
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1 Error: <path> attribute d: Expected number, "… 3.69189V6.94189...".
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1 Error: <path> attribute d: Expected number, "… 3.69189V6.94189...".
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1 Error: <path> attribute d: Expected number, "M12.9963 10.8203...".
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1 Error: <path> attribute d: Expected number, "M12.9963 10.8203...".
+[SEVERE] https://traderboard-dev.traderverse.io/sdk/traderverse-widget.min.js?t=1771005107048 1 Error: <path> attribute d: Expected number, "… 3.69189V6.94189...".
+[SEVERE] https://images.financialmodelingprep.com/news/uk-regulator-secures-app-store-commitments-from-apple-and-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/1-unstoppable-stock-to-buy-before-it-joins-nvidia-20260210.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-sold-by-cerro-pacific-wealth-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-aapl-is-eagle-global-advisors-llcs-largest-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/harbour-trust-investment-management-co-has-5273-million-stake-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/wealth-effects-llc-cuts-holdings-in-apple-inc-aapl-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-aapl-is-blue-square-asset-management-llcs-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-sold-by-littlejohn-financial-services-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/wilmington-savings-fund-society-fsb-boosts-stock-position-in-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/strong-iphone-17-cycle-giving-better-than-expected-revenue-20260210.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/big-tech-may-have-to-do-more-to-combat-20260210.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-and-google-agree-to-app-store-changes-after-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/how-apple-is-winning-the-ai-race-by-staying-20260210.jpeg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/heres-how-apples-stock-can-surge-in-the-face-20260210.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/6-chip-stocks-set-to-benefit-most-from-big-20260210.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-sold-by-cairn-investment-group-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-and-google-agree-to-app-store-changes-after-20260210.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/montis-financial-llc-has-1984-million-stake-in-apple-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-and-google-agree-app-store-changes-to-appease-20260210.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-aapl-stock-holdings-lowered-by-nwam-llc-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-aapl-holdings-decreased-by-tlw-wealth-management-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-sold-by-presper-financial-architects-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-aapl-stake-raised-by-fiduciary-wealth-partners-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/davis-rea-ltd-sells-40173-shares-of-apple-inc-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/dillon-associates-inc-has-6563-million-stock-holdings-in-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/edgerock-capital-llc-sells-4794-shares-of-apple-inc-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-aapl-shares-bought-by-global-trust-asset-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/gilliland-jeter-wealth-management-llc-has-2891-million-stake-20260210.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/this-stock-is-up-10650-in-20-years-can-20260210.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-to-debut-iphone-17e-new-ipads-fresh-macs-20260209.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/coons-volatility-going-nowhere-googl-aapl-crwd-next-ai-20260209.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/tastee-apple-inc-expands-its-confectionery-footprint-with-strategic-20260209.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/wright-investors-service-inc-decreases-holdings-in-apple-inc-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/sunbeam-capital-management-llc-has-936-million-position-in-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/blalock-williams-llc-buys-shares-of-10067-apple-inc-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/apple-inc-nasdaqaapl-receives-consensus-rating-of-moderate-buy-20260209.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/musk-on-apples-recruiting-tactics-record-iphone-quarter-tim-20260208.jpeg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/top-wall-street-analysts-like-these-stocks-for-longterm-20260208.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/is-apple-falling-behind-in-artificial-intelligence-ai-heres-20260208.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/will-taking-over-apples-credit-card-business-boost-jpmorgan-20260207.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/nebius-incrementally-bullish-after-positive-report-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/5-brokeradored-stocks-to-watch-amid-fears-of-ai-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/mohawks-q4-earnings-beat-estimates-sales-miss-margins-down-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/bronstein-gewirtz-grossman-llc-urges-agilon-health-inc-investors-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/applovin-rides-on-margin-power-heres-what-you-should-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/cms-energy-declares-quarterly-dividend-on-cumulative-redeemable-perpetual-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/bronstein-gewirtz-grossman-llc-urges-endeavor-group-holdings-inc-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/bronstein-gewirtz-grossman-llc-urges-klarna-group-plc-investors-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/anthropic-taps-exmicrosoft-cfo-trump-aide-liddell-for-board-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/us-ftc-ramps-up-scrutiny-of-microsoft-over-ai-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/bny-clients-hedge-dollar-exposure-by-most-since-2023-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/roku-stock-surges-on-earnings-beat-record-quarter-for-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/instacart-shares-soar-as-upbeat-forecast-tempers-competition-fears-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/instacart-jumps-14-on-strong-results-as-ceo-calls-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/us-allows-oil-majors-to-resume-venezuela-operations-broadly-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/venezuela-oil-sales-top-1-billion-funds-wont-go-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[SEVERE] https://images.financialmodelingprep.com/news/british-bank-natwest-softens-fossil-fuel-lending-rules-20260213.jpg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR

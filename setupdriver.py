@@ -38,7 +38,7 @@ def get_chrome_options():
     chrome_options.add_argument("--log-level=3") 
     chrome_options.add_argument("--silent")
     chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--headless=new")
+    # chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--remote-debugging-port=9222")
     chrome_options.add_argument("--disable-dev-shm-usage")
@@ -115,86 +115,99 @@ def get_response_time_from_log(log_filename):
     except Exception as e:
         logging.error(f"❌ Error reading network log {log_filename}: {e}")
         return []
-
-
-def capture_network_logs(driver, test_name):
+def capture_proxy_network_logs(driver, test_name, widget_name):
     """
-    Captures network requests/responses and calculates response time per API.
-    Saves logs as JSON in network_logs/ folder.
-    Includes request payloads to extract real URLs from proxy calls.
+    Capture network logs:
+    - Only proxy calls
+    - Extract real URL from request payload
+    - Record response time
+    - Save in network_logs/<test_name>.json
     """
     try:
         if not getattr(driver, "session_id", None):
             logging.warning("⚠ Driver session not found, skipping network logs")
             return
 
+        # Get performance logs
         logs = driver.get_log("performance")
         if not logs:
             logging.warning(f"⚠ No network logs captured for {test_name}")
             return
 
-        request_map = {}  # store request start time and body
+        request_map = {}  # request_id -> start_time & payload
         log_entries = []
 
         for entry in logs:
-            log_data = json.loads(entry["message"]).get("message", {})
-            method = log_data.get("method", "")
-            params = log_data.get("params", {})
+            try:
+                message = json.loads(entry["message"])["message"]
+                method = message.get("method", "")
+                params = message.get("params", {})
 
-            # Track request start
-            if method == "Network.requestWillBeSent":
-                request_id = params.get("requestId")
-                request = params.get("request", {})
-                request_map[request_id] = {
-                    "url": request.get("url", ""),
-                    "postData": request.get("postData", None),
-                    "start_time": time.perf_counter()
-                }
+                # Track requests
+                if method == "Network.requestWillBeSent":
+                    request_id = params.get("requestId")
+                    request = params.get("request", {})
+                    url = request.get("url", "")
+                    post_data = request.get("postData", None)
 
-            # Track response end
-            elif method == "Network.responseReceived":
-                request_id = params.get("requestId")
-                response = params.get("response", {})
-                url = response.get("url", "")
-                status = response.get("status", 0)
-                mime_type = response.get("mimeType", "")
+                    # Only store proxy URLs
+                    if url.endswith("/proxy") or "/widgets/create" in url:
+                        request_map[request_id] = {
+                            "start_time": time.perf_counter(),
+                            "payload": post_data
+                        }
 
-                if request_id in request_map:
-                    start_time = request_map[request_id]["start_time"]
-                    response_time_ms = round((time.perf_counter() - start_time) * 1000, 2)
-                    request_body = request_map[request_id].get("postData", "Not captured")
+                # Track responses
+                elif method == "Network.responseReceived":
+                    request_id = params.get("requestId")
+                    response = params.get("response", {})
+                    url = response.get("url", "")
 
-                    # Try to get JSON response body if applicable
-                    response_body = "Not captured"
-                    if "application/json" in mime_type:
+                    if request_id in request_map:
+                        start_time = request_map[request_id]["start_time"]
+                        response_time_ms = round((time.perf_counter() - start_time) * 1000, 2)
+
+                        # Extract real URL from proxy payload
+                        payload_url = None
                         try:
-                            response_body = json.loads(get_response_body(driver, request_id))
+                            payload = request_map[request_id]["payload"]
+                            if payload:
+                                payload_json = json.loads(payload)
+                                payload_url = payload_json.get("url")
                         except:
-                            response_body = "Could not parse JSON"
+                            pass
 
-                    log_entries.append({
-                        "url": url,
-                        "status_code": status,
-                        "response_time_ms": response_time_ms,
-                        "request_body": request_body,
-                        "response_body": response_body
-                    })
+                        if payload_url:
+                            log_entries.append({
+                             "widget_name": widget_name,   # ✅ ADD THIS
+                             "real_url": payload_url,
+                             "proxy_url": url,
+                             "response_time_ms": response_time_ms
+})
 
-        # Save console logs too
-        console_logs = driver.get_log("browser")
-        console_entries = [{"level": c["level"], "message": c["message"], "timestamp": c["timestamp"]} for c in console_logs]
 
+                        # Remove processed request
+                        request_map.pop(request_id, None)
+
+            except Exception as e:
+                logging.warning(f"⚠ Skipping a log entry due to error: {e}")
+                continue
+
+        # Save logs
         os.makedirs("network_logs", exist_ok=True)
-        log_file = f"network_logs/{test_name}_with_requests_and_console.json"
+        log_file = f"network_logs/{test_name}_proxy_only.json"
         with open(log_file, "w", encoding="utf-8") as f:
-            json.dump({"network_logs": log_entries, "console_logs": console_entries}, f, indent=2, ensure_ascii=False)
+            json.dump(log_entries, f, indent=2, ensure_ascii=False)
 
-        logging.info(f"✅ Network logs saved with response times: {log_file}")
+        logging.info(f"✅ Proxy network logs saved: {log_file}")
         return log_file
 
     except Exception as e:
-        logging.error(f"❌ Error capturing network logs: {e}")
+        logging.error(f"❌ Error capturing proxy network logs: {e}")
+        return
+          
 
+     
 def capture_logs(driver, test_name):
     """
     Capture console logs & raw network logs and save them to files.
@@ -217,16 +230,15 @@ def capture_logs(driver, test_name):
 
     except Exception as e:
         logger.error(f"❌ Error capturing logs: {e}")
-        
 class LoggedChromeDriver(webdriver.Chrome):
-    def __init__(self, *args, **kwargs):
-        self._test_name = self._get_test_name()
-        super().__init__(*args, **kwargs)
-        self.execute_cdp_cmd("Network.enable", {})  # ✅ Enable Network domain
-        logger.info(f"🚀 Starting test: {self._test_name}")
-        capture_logs(self, f"{self._test_name}_start")
-        capture_network_logs(self,f"{self._test_name}_start")
+    # def __init__(self, *args, **kwargs):
+    #     self._test_name = self._get_test_name()
+    #     super().__init__(*args, **kwargs)
+    #     self.execute_cdp_cmd("Network.enable", {})  # ✅ Enable Network domain
+    #     logger.info(f"🚀 Starting test: {self._test_name}")
+    #     capture_logs(self, f"{self._test_name}_start")
 
+  
     def _get_test_name(self):
         stack = inspect.stack()
         for frame in stack:
@@ -242,7 +254,7 @@ class LoggedChromeDriver(webdriver.Chrome):
         logger.info(f"🧪 Ending test: {self._test_name}")
         capture_logs(self, f"{self._test_name}_end")
         time.sleep(10)  # Give Chrome time to flush logs
-        capture_network_logs(self, f"{self._test_name}_final")
+        capture_proxy_network_logs(self, f"{self._test_name}_final")
         capture_logs(self, f"{self._test_name}_end")
         super().quit()
 

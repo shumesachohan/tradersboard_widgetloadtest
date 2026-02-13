@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "level": "INFO",
+        "message": "{\"message\":{\"method\":\"Network.webSocketFrameSent\",\"params\":{\"requestId\":\"1532.942\",\"response\":{\"mask\":true,\"opcode\":1,\"payloadData\":\"42[\\\"getstocksdata\\\",\\\"{\\\\\\\"stocks\\\\\\\":[{\\\\\\\"stockId\\\\\\\":\\\\\\\"AAPL_NASDAQ\\\\\\\",\\\\\\\"showTrendChart\\\\\\\":true}]}\\\"]\"},\"timestamp\":39348.171853}},\"webview\":\"C0AA6F38310F0CAE7DA5C683860E3CA7\"}",
+        "timestamp": 1771005371819
+    },
+    {
+        "level": "INFO",
+        "message": "{\"message\":{\"method\":\"Network.webSocketFrameReceived\",\"params\":{\"requestId\":\"1532.942\",\"response\":{\"mask\":false,\"opcode\":1,\"payloadData\":\"42[\\\"priceupdate\\\",\\\"{\\\\\\\"symbol\\\\\\\":\\\\\\\"AAPL\\\\\\\",\\\\\\\"price\\\\\\\":259.23,\\\\\\\"stockId\\\\\\\":\\\\\\\"AAPL_NASDAQ\\\\\\\"}\\\"]\"},\"timestamp\":39348.293074}},\"webview\":\"C0AA6F38310F0CAE7DA5C683860E3CA7\"}",
+        "timestamp": 1771005371819
+    },
+    {
+        "level": "INFO",
+        "message": "{\"message\":{\"method\":\"Network.webSocketFrameReceived\",\"params\":{\"requestId\":\"1532.942\",\"response\":{\"mask\":false,\"opcode\":1,\"payloadData\":\"42[\\\"priceupdate\\\",\\\"{\\\\\\\"symbol\\\\\\\":\\\\\\\"AAPL\\\\\\\",\\\\\\\"price\\\\\\\":259.23,\\\\\\\"stockId\\\\\\\":\\\\\\\"AAPL_NASDAQ\\\\\\\"}\\\"]\"},\"timestamp\":39349.267771}},\"webview\":\"C0AA6F38310F0CAE7DA5C683860E3CA7\"}",
+        "timestamp": 1771005371819
+    }
+]

@@ -1,4 +1,5 @@
 from datetime import datetime
+import json
 import os
 import time
 import logging
@@ -9,8 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from report import send_whatsapp_message
-from setupdriver import LoggedChromeDriver, capture_network_logs, get_chrome_options, get_response_time_from_log
-from utils import findElement
+from setupdriver import LoggedChromeDriver, capture_proxy_network_logs, get_chrome_options
+from utils import findElement, log_test_result
 
 # ------------------------------
 # Load environment & logging
@@ -18,6 +19,8 @@ from utils import findElement
 load_dotenv()
 BASE_URL = os.getenv('BASE_URL')
 CHAT_ID = os.getenv('CHAT_ID')
+ERROR_CHAT_ID = os.getenv('ERROR_CHAT_ID')
+
 SLOW_THRESHOLD_SECONDS = 5  # warning threshold
 
 logging.basicConfig(
@@ -40,6 +43,7 @@ def login_user(driver, item):
         logging.info("Enter email")
         time.sleep(2)
         email = findElement(driver,'id','username')
+        time.sleep(3)
         email.send_keys(item['email'])
 
         logging.info("Enter password")
@@ -53,171 +57,205 @@ def login_user(driver, item):
     except Exception as e:
         logging.error(f"Login failed for {item['email']}: {e}")
         return False
-
-# ------------------------------
-# Generate widget warnings
-# ------------------------------
-
-# ------------------------------
-# Send WhatsApp warnings
-# ------------------------------
-# Thresholds
 SLOW_WIDGET_THRESHOLD_SEC = 5  # warn if widget load > 5 sec
 SLOW_API_THRESHOLD_MS = 5000   # warn if single API > 5 sec
-def generate_widget_warnings(driver):
+def generate_widget_api_lists(driver):
+    warnings_list = []
+    normal_list = []
+
+    logging.info("⏳ Detecting widgets and capturing proxy API logs...")
+    widgets = driver.find_elements(By.CSS_SELECTOR, "[data-testing-id^='Widgets_']")
+    total_widgets = len(widgets)
+    logging.info(f"🟢 Total widgets detected: {total_widgets}")
+
+    for i, widget in enumerate(widgets, start=1):
+        widget_name = widget.get_attribute("data-testing-id")
+        logging.info(f"🔹 Capturing proxy API logs for widget: {widget_name}")
+
+        # Capture proxy network logs for this widget
+        test_name = f"widget_{i}_{widget_name}"
+        log_file = capture_proxy_network_logs(driver, test_name, widget_name)
+
+
+        # Load captured logs
+        entries_data = []
+        if log_file and os.path.exists(log_file):
+            with open(log_file, "r", encoding="utf-8") as f:
+                entries_data = json.load(f)  # list of dicts: real_url, proxy_url, response_time_ms
+
+        for api in entries_data:
+            real_url = api.get("real_url")
+            rt_ms = api.get("response_time_ms", 0)
+
+            line = f"{widget_name} | {real_url} | {round(rt_ms/1000,2)} sec"
+            if rt_ms/1000 > SLOW_WIDGET_THRESHOLD_SEC:
+                warnings_list.append(f"⚠ {line}")
+            else:
+                normal_list.append(f"✅ {line}")
+
+    logging.info("✅ Widget API measurement completed")
+    return warnings_list, normal_list
+ 
+# ------------------------------
+# Send WhatsApp messages
+# ------------------------------
+# def send_widget_whatsapp_messages(warnings_list, normal_list):
+#     now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    
+#     try:
+#         if warnings_list:
+#             msg_warnings = f"🧪 Tradersboard Widget Warnings\n🕒 {now}\n\n" + "\n".join(warnings_list)
+#             send_whatsapp_message(ERROR_CHAT_ID, msg_warnings)
+#             logging.info(f"✅ WhatsApp warnings sent to {ERROR_CHAT_ID}")
+#     except Exception as e:
+#         logging.error(f"❌ Failed to send warnings WhatsApp: {e}")
+
+#     try:
+#         if normal_list:
+#             msg_normal = f"🟢 Tradersboard All Widget APIs\n🕒 {now}\n\n" + "\n".join(normal_list)
+#             send_whatsapp_message(CHAT_ID, msg_normal)
+#             logging.info(f"✅ WhatsApp normal APIs sent to {CHAT_ID}")
+#     except Exception as e:
+#         logging.error(f"❌ Failed to send normal APIs WhatsApp: {e}")
+# import json
+# import logging
+# from datetime import datetime
+# from report import send_whatsapp_message
+# import os
+
+# SLOW_WIDGET_THRESHOLD_SEC = 5  # 5 sec se zyada → warning
+
+# def parse_proxy_logs_and_send_whatsapp(log_file_path, chat_id, error_chat_id):
+#     """
+#     Reads proxy-only network logs and sends two WhatsApp messages:
+#     1️⃣ Warnings → widgets with API response > threshold
+#     2️⃣ Normal → all other APIs
+#     Format:
+#       WidgetName | API Real URL | Response Time
+#     """
+#     if not os.path.exists(log_file_path):
+#         logging.error(f"❌ Proxy log file not found: {log_file_path}")
+#         return
+
+#     # Load proxy network logs
+#     with open(log_file_path, "r", encoding="utf-8") as f:
+#         logs = json.load(f)
+
+#     warnings_list = []
+#     normal_list = []
+
+#     for entry in logs:
+#         widget_name = entry.get("widget_name", "Unknown_Widget")
+#         real_url = entry.get("real_url", "Unknown_URL")
+#         response_time_ms = entry.get("response_time_ms", 0)
+
+#         line = f"{widget_name} | {real_url} | {round(response_time_ms/1000, 2)} sec"
+
+#         if response_time_ms/1000 > SLOW_WIDGET_THRESHOLD_SEC:
+#             warnings_list.append(f"⚠ {line}")
+#         else:
+#             normal_list.append(f"✅ {line}")
+
+#     now = datetime.now().strftime("%Y-%m-%d %H:%M")
+
+#     # Send warnings message
+#     if warnings_list:
+#         msg_warnings = f"🧪 Tradersboard Widget Warnings\n🕒 {now}\n\n" + "\n".join(warnings_list)
+#         send_whatsapp_message(error_chat_id.strip(), msg_warnings)
+#         logging.info("✅ WhatsApp warnings sent")
+
+#     # Send normal APIs message
+#     if normal_list:
+#         msg_normal = f"🟢 Tradersboard All Widget APIs\n🕒 {now}\n\n" + "\n".join(normal_list)
+#         send_whatsapp_message(chat_id.strip(), msg_normal)
+#         logging.info("✅ WhatsApp normal APIs sent")
+
+#     logging.info("✅ WhatsApp messages completed")
+def parse_proxy_logs_and_send_whatsapp(log_file_path, chat_id, error_chat_id):
     """
-    Detect all pre-added widgets on the board, capture backend API response times,
-    including proxy payload real URLs, and return clean warning lines (no duplicates).
+    Reads proxy-only network logs and sends two WhatsApp messages:
+    1️⃣ Warnings → APIs with response > threshold
+    2️⃣ Normal → all other APIs
+    Format:
+      API Real URL | Response Time (sec + ms)
     """
-
-    warnings = []
-
-    try:
-        logging.info("⏳ Waiting for board to load...")
-
-        # Wait for board container
-        board_container = WebDriverWait(driver, 30).until(
-            EC.presence_of_element_located((By.XPATH, '/html/body/div[1]/div/div[2]'))
-        )
-
-        logging.info("✅ Board loaded, detecting widgets...")
-
-        # Find all widgets
-        widgets = driver.find_elements(By.CSS_SELECTOR, "[data-testing-id^='Widgets_']")
-        total_widgets = len(widgets)
-        logging.info(f"🟢 Total widgets detected: {total_widgets}")
-
-        if total_widgets == 0:
-            warnings.append("⚠ No widgets found on the board!")
-            return warnings
-
-        # Loop through widgets
-        for i, widget in enumerate(widgets, start=1):
-            widget_name = widget.get_attribute("data-testing-id")
-            logging.info(f"🔹 Checking widget {i}/{total_widgets}: {widget_name}")
-
-            log_filename = f"widget_{i}_{widget_name.replace('Widgets_', '')}"
-            capture_network_logs(driver, log_filename)
-
-            time.sleep(1)
-
-            network_data = get_response_time_from_log(log_filename)
-
-            if not network_data:
-                continue
-
-            api_times = {}
-
-            for api in network_data:
-                url = api.get("url", "")
-                rt = api.get("response_time_ms", 0)
-
-                if not url:
-                    continue
-
-                url_lower = url.lower()
-
-                # 🚫 Ignore static files (JS, CSS, images, fonts)
-                if url_lower.endswith((
-                    ".js", ".css", ".png", ".jpg", ".jpeg",
-                    ".svg", ".woff", ".woff2", ".ico", ".map"
-                )):
-                    continue
-
-                # 🚫 Ignore completely external domains
-                if "traderboard-dev.traderverse.io" not in url_lower:
-                    continue
-
-                # ✅ Extract real URL from proxy payload if available
-                if url_lower.endswith("/proxy") or "/widgets/create" in url_lower:
-                    try:
-                        # payload contains real endpoint URL
-                        payload_url = api.get("request_payload", {}).get("url")
-                        if payload_url:
-                            url = payload_url
-                    except Exception:
-                        pass  # fallback to proxy URL if parsing fails
-
-                # Remove duplicates (keep max response time)
-                if url not in api_times:
-                    api_times[url] = rt
-                else:
-                    api_times[url] = max(api_times[url], rt)
-
-            if not api_times:
-                continue
-
-            # Slowest backend API time for widget
-            max_api_time_ms = max(api_times.values())
-
-            if max_api_time_ms > SLOW_WIDGET_THRESHOLD_SEC * 1000:
-                warnings.append(
-                    f"⚠ Widget '{widget_name}' is slow: {round(max_api_time_ms/1000, 2)} sec"
-                )
-
-            # Individual slow API warnings
-            for url, rt in api_times.items():
-                if rt > SLOW_API_THRESHOLD_MS:
-                    warnings.append(
-                        f"⚠ Widget '{widget_name}' API slow: {url} → {round(rt/1000, 2)} sec"
-                    )
-
-        logging.info("✅ Widget check completed")
-        return warnings
-
-    except Exception as e:
-        logging.error(f"❌ Error in generating widget warnings: {e}")
-        warnings.append(f"❌ Error: {e}")
-        return warnings
-
-def send_widget_report_whatsapp(warnings):
-    """
-    Sends WhatsApp message containing only warnings
-    """
-    if not warnings:
-        logging.info("No slow widgets detected. No WhatsApp message sent.")
+    if not os.path.exists(log_file_path):
+        logging.error(f"❌ Proxy log file not found: {log_file_path}")
         return
+
+    # Load proxy network logs
+    with open(log_file_path, "r", encoding="utf-8") as f:
+        logs = json.load(f)
+
+    warnings_list = []
+    normal_list = []
+
+    for entry in logs:
+        real_url = entry.get("real_url", "Unknown_URL")
+        response_time_ms = entry.get("response_time_ms", 0)
+
+        # Compute both sec and ms
+        response_sec = round(response_time_ms / 1000, 2)
+        response_ms = round(response_time_ms, 2)
+
+        line = f"{real_url} | {response_sec} sec | {response_ms} ms"
+
+        if response_sec > SLOW_WIDGET_THRESHOLD_SEC:
+            warnings_list.append(f"⚠ {line}")
+        else:
+            normal_list.append(f"✅ {line}")
 
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
-    whatsapp_text = f"🧪 Tradersboard Widget Page Warnings\n🕒 {now}\n\n"
-    whatsapp_text += "\n".join(warnings)
 
-    if not CHAT_ID:
-        logging.error("CHAT_ID not set. Cannot send WhatsApp message.")
-        return
+    # Send warnings message
+    if warnings_list:
+        msg_warnings = f"🧪 Tradersboard Widget Warnings\n🕒 {now}\n\n" + "\n".join(warnings_list)
+        send_whatsapp_message(ERROR_CHAT_ID.strip(), msg_warnings)
+        logging.info("✅ WhatsApp warnings sent")
 
-    send_whatsapp_message(CHAT_ID.strip(), whatsapp_text)
-    logging.info("WhatsApp warnings sent.")
+    # Send normal APIs message
+    if normal_list:
+        msg_normal = f"🟢 Tradersboard All Widget APIs\n🕒 {now}\n\n" + "\n".join(normal_list)
+        send_whatsapp_message(CHAT_ID.strip(), msg_normal)
+        logging.info("✅ WhatsApp normal APIs sent")
 
+    logging.info("✅ WhatsApp messages completed")
 
 # ------------------------------
-# Main execution
+# Full flow
 # ------------------------------
 if __name__ == "__main__":
-    # Test login data
-    
-
     driver = LoggedChromeDriver(
         service=Service(ChromeDriverManager().install()),
         options=get_chrome_options()
     )
-    driver.set_window_size(1920,1080)
-    logging.info("✅ WebDriver ready")
+    driver.set_window_size(1920, 1080)
 
     try:
+        # ------------------
         # Login
-        login_success = login_user(driver, login_data)
-        if login_success:
-            logging.info("Login successful ✅")
+        # ------------------
+        success = login_user(driver, login_data)
+        if not success:
+            logging.error("❌ Login failed. Exiting script.")
+            driver.quit()
+            exit(1)
 
-            # Generate warnings for all pre-added widgets
-            warnings = generate_widget_warnings(driver)
+        logging.info("✅ Logged in successfully")
+        time.sleep(3)  # wait for board to load
 
-            # Send WhatsApp report
-            send_widget_report_whatsapp(warnings)
+        # ------------------
+        # Generate widget API lists
+        # ------------------
+        warnings, normal = generate_widget_api_lists(driver)
 
-        else:
-            logging.error("❌ Login failed. Cannot check widgets.")
-
+        # ------------------
+        # Send WhatsApp messages
+        # ------------------
+        # send_widget_whatsapp_messages(warnings, normal)
+        log_file = "network_logs/unnamed_test_final_proxy_only.json"
+        parse_proxy_logs_and_send_whatsapp(log_file, CHAT_ID, ERROR_CHAT_ID)
+        
     finally:
         driver.quit()
+        logging.info("✅ Driver closed")
